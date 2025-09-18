@@ -1,0 +1,32 @@
+.pro-card-main-div{
+    width: 13rem;
+    height: 18rem;
+    margin: 1rem auto;
+    background-color: #fff;
+    box-shadow: 0px 0px 8px 1px #0000002b;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    cursor: pointer;
+}
+.pro-card-main-div img{
+    width: 11rem; 
+    border-radius: 8px;
+}
+.pro-card-detals-div{
+    width: 100%;
+}
+.pro-card-title, .pro-card-price{
+    padding-right: 1.6rem;
+    margin: 0.5rem 0;
+    color: #393e46;
+}
+.pro-card-title{
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+.pro-card-price{
+    font-size: 1.1rem;
+}

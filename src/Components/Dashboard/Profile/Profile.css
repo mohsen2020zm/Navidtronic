@@ -1,0 +1,110 @@
+.profile-info-form{
+    width: 56rem;
+    height: 25rem;
+    border-bottom: 1px solid #393e46;
+    margin: 0 auto;
+}
+.profile-title{
+    font-size: 2rem;
+    font-weight: 600;
+    color: #393e46;
+}
+.profile-inputs-main-div{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.profile-input-div{
+    width: 28rem;
+    height: 7.5rem;
+}
+.profile-input-div > input{
+    width: 80%;
+    height: 2rem;
+    border-radius: 3px;
+    border: 1px solid #393e46;
+    font-family: shabnam;
+    font-size: 1rem;
+    padding-right: 0.5rem;
+    background-color: #fff;
+}
+.profile-input-name{
+    font-size: 1.1rem;
+    color: #393e46;
+}
+.profile-input-error{
+    color: #ff4e4e;
+    margin: 0.3rem 0;
+    font-size: 0.9rem;
+}
+.profile-submit-form{
+    width: 11rem;
+    height: 2.8rem;
+    background-color: #6d9886;
+    border-radius: 8px;
+    border: none;
+    font-family: shabnam;
+    font-size: 1.1rem;
+    color: #f7f7f7;
+    cursor: pointer;
+    margin-top: 0.6rem;
+    padding: 0;
+}
+.change-pass-main-div{
+    width: 56rem;
+    margin: 3rem auto 3rem auto;
+}
+@media only screen and (max-width: 1200px){
+    .profile-input-div{
+        width: 21rem;
+    }
+    .profile-info-form, .change-pass-main-div{
+        width: 42rem;
+    }
+}
+@media only screen and (max-width: 992px){
+    .profile-info-form, .change-pass-main-div{
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 768px){
+    .profile-inputs-main-div{
+        justify-content: center;
+    }
+    .profile-input-div{
+        width: 100%;
+    }
+    .profile-input-div > input{
+        width: 96%;
+    }
+    .profile-info-form{
+        height: 33rem;
+    }
+}
+@media only screen and (max-width: 480px){
+    .profile-title{
+        font-size: 1.5rem;
+    }
+    .profile-input-name{
+        font-size: 1rem;
+    }
+    .profile-input-div > input{
+        font-size: 0.9rem;
+    }
+    .profile-submit-form{
+        width: 9rem;
+        height: 2.4rem;
+        font-size: 0.85rem;
+    }
+    .profile-info-form{
+        height: 32rem;
+    }
+    .change-pass-main-div{
+        margin-top: 2rem;
+    }
+    .profile-input-error{
+        font-size: 0.8rem;
+    }
+}

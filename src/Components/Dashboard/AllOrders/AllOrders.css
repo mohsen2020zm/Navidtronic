@@ -1,0 +1,82 @@
+.all-ord-header-div{
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.all-ord-title{
+    color: #393e46;
+}
+.all-ord-select-box{
+    width: 10rem;
+    height: 2rem;
+    background-color: #f7f7f7;
+    border: 1px solid #393e46;
+    border-radius: 4px;
+    font-family: shabnam;
+    font-size: 0.9rem;
+    color: #393e46;
+    outline: none;
+    cursor: pointer;
+    padding-right: 0.2rem;
+}
+.all-ord-info-titles{
+    height: 5rem;
+    border-bottom: 1px solid #393e46;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.all-ord-info-title{
+    width: 25%;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.all-ord-info-title p{
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #393e46;
+    margin: 0;
+}
+.all-ord-info-main-div{
+    width: 100%;
+}
+@media only screen and (max-width: 992px){
+    .all-ord-info-titles, .all-ord-info-title{
+        height: 4.5rem;
+    }
+}
+@media only screen and (max-width: 768px){
+    .all-ord-info-titles, .all-ord-info-title{
+        height: 4rem;
+    }
+    .all-ord-info-title p{
+        font-size: 0.9rem;
+    }
+    .all-ord-title{
+        font-size: 1.6rem;
+    }
+    .all-ord-select-box{
+        width: 8rem;
+    }
+
+}
+@media only screen and (max-width: 480px){
+    .all-ord-header-div{
+        height: 6rem;
+        flex-direction: column;
+        justify-content: flex-start;
+    }
+    .all-ord-info-titles, .all-ord-info-title{
+        height: 3.5rem;
+    }
+    .all-ord-info-title p{
+        font-size: 0.62rem;
+    }
+    .all-ord-select-box{
+        font-size: 0.8rem;
+    }
+}

@@ -1,0 +1,99 @@
+.pro-de-load-main-div{
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 1rem;
+}
+.pro-de-load-img-div{
+    width: 25rem;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pro-de-load-img-div div{
+    width: 23rem;
+    height: 23rem;
+    background-color: #ebebeb;
+    border-radius: 8px;
+}
+.pro-de-load-details-div{
+    width: 30rem;
+    padding: 2rem 1rem;
+    border-left: 1px solid #393e46;
+}
+.pro-de-load-name{
+    height: 2.6rem;
+    width: 12rem;
+    background-color: #ebebeb;
+    border-radius: 8px;
+    margin: 2rem 0;
+}
+.pro-de-load-price{
+    height: 2.2rem;
+    width: 10rem;
+    background-color: #ebebeb;
+    border-radius: 8px;
+    margin: 1.55rem 0;
+}
+.pro-de-load-description{
+    height: 1.8rem;
+    width: 100%;
+    background-color: #ebebeb;
+    border-radius: 8px;
+    margin: 1.2rem 0;
+}
+@media only screen and (max-width: 992px){
+    .pro-de-load-img-div div{
+        width: 20rem;
+        height: 20rem;
+    }
+    .pro-de-load-details-div{
+        width: 100%;
+    }
+    .pro-de-load-name,
+    .pro-de-load-price,
+    .pro-de-load-description{
+        margin: 0.5rem 0;
+    }
+    .pro-de-load-name{
+        height: 2.5rem;
+        width: 11rem;
+    }
+    .pro-de-load-price{
+        height: 1.95rem;
+        width: 9rem;
+    }
+    .pro-de-load-description{
+        height: 1.45rem;
+    }
+}
+@media only screen and (max-width: 768px){
+    .pro-de-load-main-div{
+        flex-direction: column;
+    }
+    .pro-de-load-img-div{
+        width: 100%;
+        margin: 1rem 0;
+        padding: 0;
+    }
+    .pro-de-load-details-div{
+        border-left: none;
+        border-top: 1px solid #393e46;
+        padding: 1rem 0;
+    }
+}
+@media only screen and (max-width: 480px){
+    .pro-de-load-img-div div{
+        width: 15rem;
+        height: 15rem;
+    }
+    .pro-de-load-name{
+        height: 2rem;
+    }
+    .pro-de-load-price{
+        height: 1.8rem;
+    }
+}

@@ -1,0 +1,65 @@
+.wcu-main-div{
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 1.5rem 0;
+}
+.wcu-main-div img{
+    max-width: 28rem;
+}
+.wcu-div{
+    max-width: 40rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.wcu-main-title{
+    width: 100%;
+    margin: 0 1rem 1rem 0;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+.wcu-boxes{
+    max-width: 18rem;
+    margin: 0 1rem;
+}
+.wcu-boxes-title{
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin: 0;
+}
+.wcu-boxes p{
+    margin: 0.5rem 0;
+}
+
+@media only screen and (max-width: 1200px){
+    .wcu-main-div{
+        flex-direction: column;
+    }
+    .wcu-div{
+        margin-top: 2rem;
+    }
+}
+@media only screen and (max-width: 768px){
+    .wcu-div{
+        max-width: 26rem;
+    }
+    .wcu-boxes{
+        max-width: 11rem;
+    }
+    .wcu-main-div img{
+        max-width: 25rem;
+    }
+}
+@media only screen and (max-width: 480px){
+    .wcu-div, .wcu-boxes{
+        max-width: 100%;
+    }
+    .wcu-boxes-title{
+        font-size: 1rem;
+    }
+    .wcu-main-div img{
+        max-width: 16rem;
+    }
+}

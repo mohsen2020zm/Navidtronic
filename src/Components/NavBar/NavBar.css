@@ -1,0 +1,204 @@
+.nav-div{
+    height: 3.5rem;
+    max-width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 0;
+}
+.nav-logo{
+    width: 11rem;
+}
+.menu-ul{
+    width: 16.5rem;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: all 0.2s;
+}
+.menu-ul > a{
+    color: #f7f7f7;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+.nav-left-div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-search-input-div{
+    width: 16rem;
+    height: 1.8rem;
+    border-radius: 3px;
+    background-color: #f7f7f7;
+}
+.nav-search-input-icon-div{
+    width: 2rem;
+    height: 1.8rem;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.nav-search-input-icon-div svg{
+    font-size: 1.5rem;
+    color: #393e46;
+}
+.nav-search-input{
+    width: 13rem;
+    height: 1.8rem;
+    border: none;
+    border-radius: 3px;
+    background-color: #f7f7f7;
+    padding: 0rem 0.5rem 0 0;
+    font-family: shabnam;
+    font-size: 1rem;
+}
+.nav-search-input:focus{
+    outline: none;
+}
+.log-button{
+    width: 7.2rem;
+    height: 2rem;
+    background-color: #6d9886;
+    border: none;
+    border-radius: 3px;
+    font-size: 0.9rem;
+    font-family: shabnam;
+    color: #f7f7f7;
+    cursor: pointer;
+}
+.user-prof{
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    cursor: pointer;
+    background-color: #c1c1c1;
+    /* margin-right: 0.5rem; */
+}
+.user-prof > svg{
+    font-size: 2.5rem;
+    color: #f7f7f7;
+}
+.nav-basket-btn{
+    width: 1.8rem;
+    height: 1.8rem;
+    cursor: pointer;
+    margin: 0 1rem;
+}
+.nav-basket-btn svg{
+    font-size: 1.8rem;
+    color: #f7f7f7;
+}
+.menu-btn{
+    width: 1.8rem;
+    height: 1.9rem;
+    cursor: pointer;
+    display: none;
+}
+.menu-btn svg{
+    font-size: 1.9rem;
+    color: #f7f7f7;
+}
+.menu-aside{
+    width: 13rem;
+    height: 100vh;
+    background-color: #393e46;
+    position: fixed;
+    right: -13rem;
+    transition: all 0.2s;
+}
+.close-menu-btn{
+    width: 1.5rem;
+    height: 1.5rem;
+    cursor: pointer;
+    float: left;
+    margin: 0.5rem 0 0 0.5rem;
+}
+.close-menu-btn svg{
+    font-size: 1.5rem;
+    color: #f7f7f7;
+}
+@media only screen and (max-width: 1200px){
+    .nav-logo{
+        width: 10rem;
+    }
+}
+@media only screen and (max-width: 992px){
+    .nav-logo{
+        display: none;
+    }
+}
+@media only screen and (max-width: 768px){
+    .nav-search-input-div{
+        width: 15rem;
+    }
+    .nav-search-input{
+        width: 12rem;
+    }
+    .menu-btn{
+        display: block;
+    }
+    .menu-ul{
+        width: 10rem;
+        padding: 0;
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+        position: fixed;
+        right: -11.8rem;
+        top: 1rem;
+    }
+    .menu-ul > a{
+        margin-bottom: 1rem;
+    }
+    .nav-basket-btn{
+        margin: 0 0.5rem;
+    }
+}
+@media only screen and (max-width: 480px){
+    .nav-search-input-div{
+        width: 9rem;
+        height: 1.6rem;
+    }
+    .nav-search-input-icon-div{
+        width: 1.8rem;
+        height: 1.6rem;
+    }
+    .nav-search-input-icon-div svg{
+        font-size: 1.3rem;
+    }
+    .nav-search-input{
+        width: 6.5rem;
+        height: 1.6rem;
+        font-size: 0.69rem;
+    }
+    .nav-basket-btn{
+        width: 1.6rem;
+        height: 1.6rem;
+    }
+    .nav-basket-btn svg{
+        font-size: 1.6rem;
+    }
+    .log-button{
+        width: 4.5rem;
+        height: 1.7rem;
+        font-size: 0.55rem;
+    }
+    .menu-btn{
+        width: 1.6rem;
+        height: 1.7rem;
+    }
+    .menu-btn svg{
+        font-size: 1.7rem;
+    }
+    .user-prof{
+        width: 2rem;
+        height: 2rem;
+    }
+    .user-prof > svg{
+        font-size: 2rem;
+    }
+}

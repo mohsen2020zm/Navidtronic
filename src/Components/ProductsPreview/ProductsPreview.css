@@ -1,0 +1,102 @@
+.pro-pre-flex-div{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 1.5rem 0;
+}
+.pro-pre-details{
+    max-width: 20rem;
+}
+.pro-pre-title{
+    font-size: 3.5rem;
+    font-weight: 600;
+    margin: 1rem 0;
+    color: #393e46;
+}
+.pro-pre-des{
+    font-size: 1.2rem;
+    margin: 0.5rem 0;
+    color: #393e46;
+}
+.pro-pre-btn{
+    width: 8rem;
+    height: 2.5rem;
+    border: none;
+    background-color: #6d9886;
+    color: #f7f7f7;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    font-family: shabnam;
+    cursor: pointer;
+}
+.pros-pre-div{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.pros-pre-div .pro-card-main-div,
+.pros-pre-div .pro-card-load-main-div{
+    margin: 1rem;
+}
+@media only screen and (max-width: 1200px){
+    .pro-pre-flex-div{
+        flex-direction: column;
+    }
+    .pro-pre-details{
+        margin-bottom: 1rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .pro-pre-title{
+        text-align: center;
+    }
+    .pro-pre-des{
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 768px){
+    .pros-pre-div .pro-card-main-div:nth-last-child(-n+2),
+    .pros-pre-div .pro-card-load-main-div:nth-last-child(-n+2){
+        display: none;
+    }
+    .pros-pre-div .pro-card-main-div,
+    .pros-pre-div .pro-card-load-main-div{
+        width: 22rem;
+        height: 28rem;
+    }
+    .pros-pre-div .pro-card-main-div img{
+        width: 19rem;
+    }
+    .pros-pre-div .pro-card-load-img{
+        width: 19rem;
+        height: 19rem;
+    }
+    .pro-pre-title{
+        font-size: 3rem;
+    }
+    .pro-pre-des{
+        font-size: 1.1rem;
+    }
+}
+@media only screen and (max-width: 480px){
+    .pros-pre-div .pro-card-main-div,
+    .pros-pre-div .pro-card-load-main-div{
+        width: 17rem;
+        height: 23rem;
+    }
+    .pros-pre-div .pro-card-main-div img{
+        width: 15rem;
+    }
+    .pros-pre-div .pro-card-load-img{
+        width: 15rem;
+        height: 15rem;
+    }
+    .pro-pre-title{
+        font-size: 2.5rem;
+    }
+    .pro-pre-des{
+        font-size: 1rem;
+    }
+}
