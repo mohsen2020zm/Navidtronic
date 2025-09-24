@@ -24,8 +24,12 @@
     color: #393e46;
 }
 .pro-card-title{
+    width: 10rem;
     font-size: 1.2rem;
     font-weight: 600;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 .pro-card-price{
     font-size: 1.1rem;

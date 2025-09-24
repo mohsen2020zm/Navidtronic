@@ -2,6 +2,7 @@ import './AllProducts.css'
 import ProductCard from '../ProductCard/ProductCard'
 import { useEffect, useState } from 'react'
 import { useSearchParams } from 'react-router-dom'
+import data  from '../../Data/data'
 
 export default function AllProducts() {
     const [massage, setMassage] = useState('')
@@ -16,23 +17,17 @@ export default function AllProducts() {
     useEffect(() => {
         setProducts([])
         setMassage('در حال جست و جو...')
+        num = 0
+        let filteredProducts = data.products.filter(product => product.name.toLowerCase().includes(query.toLowerCase()))
         
-        fetch('https://navidtronic2-8b5ef-default-rtdb.firebaseio.com/products.json')
-        .then(res => res.json())
-        .then(res => {
-            num = 0
-            let allProducts = Object.entries(res)
-            let filteredProducts = allProducts.filter(product => product[1].name.toLowerCase().includes(query.toLowerCase()) && product[1].isSoldOut === false)
+        setFilteredPros(filteredProducts)
+        addProductsHandler(filteredProducts)
 
-            setFilteredPros(filteredProducts)
-            addProductsHandler(filteredProducts)
-
-            if(filteredProducts.length == 0){
-                setMassage('محصولی با این نام پیدا نشد')
-            }else{
-                setMassage('در حال جست و جو...')
-            }
-        })
+        if(filteredProducts.length == 0){
+            setMassage('محصولی با این نام پیدا نشد')
+        }else{
+            setMassage('در حال جست و جو...')
+        }
     },[query])
 
     const addProductsHandler = pros => {
@@ -52,7 +47,7 @@ export default function AllProducts() {
             <p className='all-pros-loading-mass'>{massage}</p> :
             <>
             <div className='all-pros-main-div'>
-                {products.map(product => <ProductCard key={product[0]} {...product[1]} id={product[0]} />)}
+                {products.map(product => <ProductCard key={product.id} {...product} />)}
             </div>
             {filteredPros.length > 15 &&
             <div className="all-pros-btn-main-div">

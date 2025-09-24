@@ -2,6 +2,7 @@ import './Cart.css'
 import CartProducts from './CartProducts/CartProducts'
 import { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
+import data  from '../../Data/data'
 
 export default function Cart() {
   const [cartProducts, setCartProducts] = useState([])
@@ -10,17 +11,12 @@ export default function Cart() {
   const navigate = useNavigate()
   
   useEffect(() => {
-    fetch('https://navidtronic2-8b5ef-default-rtdb.firebaseio.com/products.json')
-    .then(res => res.json())
-    .then(res => Object.entries(res))
-    .then(res => {
-      let cartPros = JSON.parse(localStorage.getItem('navcart'))
-      let filterdPros = []
-      cartPros.forEach(proID => {
-        filterdPros.push(res.find(product => product[0] == proID))
-        setCartProducts(filterdPros)
-        totalCalculate()
-      })
+    let cartPros = JSON.parse(localStorage.getItem('navcart'))
+    let filterdPros = []
+    cartPros.forEach(proID => {
+      filterdPros.push(data.products.find(product => product.id == proID))
+      setCartProducts(filterdPros)
+      totalCalculate()
     })
   },[])
 
@@ -29,17 +25,17 @@ export default function Cart() {
   const totalCalculate = () => {
     let priceTotal = 0
     cartProducts.forEach(product => {
-      priceTotal += product[1].price
+      priceTotal += product.price
     })
     setTotal(priceTotal)
   }
 
   const onDelete = id => {
     let cartProsId = JSON.parse(localStorage.getItem('navcart'))
-    let locStoFilter = cartProsId.filter(product => product != id)
+    let locStoFilter = cartProsId.filter(productId => productId != id)
     localStorage.setItem('navcart', JSON.stringify(locStoFilter))
 
-    let cartProductFilter = cartProducts.filter(product => product[0] != id)
+    let cartProductFilter = cartProducts.filter(product => product.id != id)
     setCartProducts(cartProductFilter)
   }
 
@@ -80,7 +76,7 @@ export default function Cart() {
         <div className="cart-products-main-div">
           {cartProducts.length === 0 ?
           <p className='cart-empty-mass'>هنوز محصولی به سبد خرید اضافه نکرده اید</p> :
-          cartProducts.map(product => <CartProducts key={product[0]} {...product[1]} id={product[0]} deleteHandler={onDelete} />)}
+          cartProducts.map(product => <CartProducts key={product.id} {...product} deleteHandler={onDelete} />)}
         </div>
         <div className="cart-purchase-main-div">
           <div className="cart-purchase-details-div">
