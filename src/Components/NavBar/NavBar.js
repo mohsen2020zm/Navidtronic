@@ -1,8 +1,7 @@
 import './NavBar.css'
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 import { Link, useLocation, useNavigate, useSearchParams } from 'react-router-dom'
 import { IoSearchSharp } from "react-icons/io5";
-import { FaUserCircle } from "react-icons/fa";
 import { TiThMenu } from "react-icons/ti";
 import { IoMdCloseCircleOutline } from "react-icons/io";
 import { RiShoppingBasketFill } from "react-icons/ri";
@@ -11,33 +10,6 @@ export default function NavBar() {
   const [Menu, setMenu] = useState([])
 
   const [search, setSearch] = useState('')
-  const [isLogin, setIsLogin] = useState(false)
-  const [path, setPath] = useState(null)
-
-  useEffect(() => {
-    let cookieArray = document.cookie.split(';');
-    let passCookie = null;
-    let usernameCookie = null;
-    cookieArray.forEach((cookie) => {
-      if(cookie.includes('username')){
-        usernameCookie = cookie.substring(cookie.indexOf('=') + 1);
-      }else if(cookie.includes('password')){
-        passCookie = cookie.substring(cookie.indexOf('=') + 1);
-      }
-    })
-    if(passCookie != null && usernameCookie != null){
-      fetch('https://navidtronic2-8b5ef-default-rtdb.firebaseio.com/users.json')
-      .then(res => res.json())
-      .then(res => {
-        let usersInfo = Object.entries(res)
-        let findUser = usersInfo.find(user => user[1].username == usernameCookie && user[1].password == passCookie)
-        if(findUser != undefined){
-          setIsLogin(true)
-          findUser[1].userType == 'admin' ? setPath(`/admin/${findUser[0]}/profile`) : setPath(`/dashboard/${findUser[0]}/profile`)
-        }
-      })
-    }
-  }, [])
 
   const navigate = useNavigate()
   const locationInfo = useLocation()
@@ -84,7 +56,7 @@ export default function NavBar() {
               <div className="nav-basket-btn" onClick={() => navigate('/cart')}>
                 <RiShoppingBasketFill />
               </div>
-              {isLogin ? <div className='user-prof' onClick={() => navigate(path)}><FaUserCircle /></div> : <button className='log-button' onClick={() => navigate('/signin')}>عضویت/ثبت نام</button>}
+              <button className='log-button' onClick={() => navigate('/signin')}>عضویت/ثبت نام</button>
             </div>
         </nav>
     </>
