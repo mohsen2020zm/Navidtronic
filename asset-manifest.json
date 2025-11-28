@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Navidtronic/static/css/main.a21f1e77.css",
+    "main.js": "/Navidtronic/static/js/main.4e666640.js",
+    "static/media/Shabnam.ttf": "/Navidtronic/static/media/Shabnam.5b9b09c283c263361c6d.ttf",
+    "index.html": "/Navidtronic/index.html",
+    "main.a21f1e77.css.map": "/Navidtronic/static/css/main.a21f1e77.css.map",
+    "main.4e666640.js.map": "/Navidtronic/static/js/main.4e666640.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a21f1e77.css",
+    "static/js/main.4e666640.js"
+  ]
+}
