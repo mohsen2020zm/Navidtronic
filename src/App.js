@@ -1,6 +1,6 @@
 import './App.css';
 import { useEffect } from "react"
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import { HashRouter, Routes, Route } from 'react-router-dom'
 import { HelmetProvider } from 'react-helmet-async'
 import HomePage from './Pages/HomePage';
 import AboutPage from './Pages/AboutPage';
@@ -20,7 +20,7 @@ function App() {
   
   return (
     <HelmetProvider>
-      <BrowserRouter>
+      <HashRouter>
         <Routes>
           <Route path='/' element={<HomePage />} />
           <Route path='/products' element={<ProductsPage />} />
@@ -31,7 +31,7 @@ function App() {
           <Route path='/signup' element={<SignupPage />} />
           <Route path='*' element={<NotFoundPage />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </HelmetProvider>
   );
 }
