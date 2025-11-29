@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 export default function CartProducts({id, name, price, img, deleteHandler}) {
   return (
     <div className='cart-products-div'>
-        {img ? <img src={img} /> : <img src="/images/no-pic.jpg" />}
+        {img ? <img src={process.env.PUBLIC_URL + img} /> : <img src={process.env.PUBLIC_URL + "/images/no-pic.jpg"} />}
         <div className='cart-products-details'>
           <Link to={`/product-details/${id}`}>
             <p className="cart-products-name">{name}</p> 

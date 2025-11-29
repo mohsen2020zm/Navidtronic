@@ -10,7 +10,7 @@ export default function Footer() {
     <footer>
         <div className="container">
             <div className="footer-row-one">
-                <img className='footer-logo' src="/images/logo.png" alt="navidtronic-logo" />
+                <img className='footer-logo' src={process.env.PUBLIC_URL + "/images/logo.png"} alt="navidtronic-logo" />
                 <ul className="socials-ul">
                     <a href="#" className='social-icon'><RiTelegram2Line /></a>
                     <a href="#" className='social-icon'><FiInstagram /></a>
@@ -34,7 +34,7 @@ export default function Footer() {
                     <p><Link to='/contact'>ارتباط با ما</Link></p>
                 </div>
                 <a href="#">
-                    <img src="/images/enamad.png" />
+                    <img src={process.env.PUBLIC_URL + "/images/enamad.png"} />
                 </a>
             </div>
         </div>

@@ -3,7 +3,7 @@ import './WCU.css'
 export default function WCU() {
   return (
     <div className="wcu-main-div">
-        <img src="/images/electric-board2.png" alt="electric-board" />
+        <img src={process.env.PUBLIC_URL + "/images/electric-board2.png"} alt="electric-board" />
         <div className="wcu-div">
             <p className='wcu-main-title'>چه چیزی ما را متمایز می‌کند؟</p>
             <div className="wcu-boxes">

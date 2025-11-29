@@ -39,7 +39,7 @@ export default function NavBar() {
                 <Link to='/products'>محصولات</Link>
                 <Link to='/about'>درباره ما</Link>
             </ul>
-            <img className='nav-logo' src="/images/logo.png" alt="navidtronic-logo" />
+            <img className='nav-logo' src={process.env.PUBLIC_URL + "/images/logo.png"} alt="navidtronic-logo" />
             <div className="nav-left-div">
               <div className="nav-search-input-div">
                 <div className="nav-search-input-icon-div" onClick={() => onSearch()}>

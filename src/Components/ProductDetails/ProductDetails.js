@@ -40,12 +40,12 @@ export default function ProductDetails() {
             <div className='pro-de-main-div'>
                 <div className="pro-de-img-div">
                     {proDetails.img ?
-                    <img src={proDetails.img} alt="product-img" /> :
-                    <img src="/images/no-pic.jpg" alt='no-pic-img' />} 
+                    <img src={process.env.PUBLIC_URL + proDetails.img} alt="product-img" /> :
+                    <img src={process.env.PUBLIC_URL + "/images/no-pic.jpg"} alt='no-pic-img' />} 
                 </div>
                 <div className="pro-de-details-div">
                     <p className='pro-de-name'>{proDetails.name}</p>
-                    <p className='pro-de-price'>قیمت: {new Intl.NumberFormat('fa-IR').format(proDetails.price)}</p>
+                    <p className='pro-de-price'>قیمت: {new Intl.NumberFormat('fa-IR').format(proDetails.price) + " تومان"}</p>
                     <p className='pro-de-description'>{proDetails.description}</p>
                     <button className='pro-de-buy-btn' onClick={() => addToBasket()}>افزدن به سبد خرید</button>
                 </div>
