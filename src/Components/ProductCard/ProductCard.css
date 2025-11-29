@@ -14,6 +14,7 @@
 .pro-card-main-div img{
     width: 11rem; 
     border-radius: 8px;
+    mix-blend-mode: multiply;
 }
 .pro-card-detals-div{
     width: 100%;
