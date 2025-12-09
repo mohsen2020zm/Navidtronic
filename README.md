@@ -44,10 +44,10 @@ It also uses several powerful libraries to enhance routing, form handling, valid
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name
+git clone https://github.com/mohsen2020zm/Navidtronic
 
 # Navigate into the project folder
-cd your-repo-name
+cd Navidtronic
 
 # Install dependencies
 npm install
