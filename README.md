@@ -86,6 +86,11 @@ To preview the production build locally:
 npm run preview
 ```
 
+## 🌐 Live Demo
+```
+https://mohsen2020zm.github.io/Navidtronic/
+```
+
 ## 📁 Project Data
 
 This project uses mock data to represent products in an electronics store. The data is intended for demonstration and testing purposes and does not represent real product listings, prices, or inventory.
