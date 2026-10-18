@@ -1,0 +1,2883 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "امپلی فایر XH-A232",
+      "description": "ماژول امپلی‌فایر استریو XH-A232 برای ساخت سیستم‌های صوتی کوچک و پروژه‌های DIY گزینه‌ای کاربردی است. این برد برای تقویت صدای دو کانال طراحی شده و می‌توان از آن در ساخت اسپیکرهای رومیزی، سیستم صوتی خانگی کوچک یا پروژه‌های مبتنی بر ماژول بلوتوث استفاده کرد. برای عملکرد بهتر، از منبع تغذیه پایدار و متناسب با مشخصات برد و بلندگوهای سازگار استفاده کنید. نتیجه نهایی به کیفیت منبع تغذیه، بلندگو و نحوه سیم‌کشی بستگی دارد.",
+      "price": 500000,
+      "img": "/images/amp.jpg",
+      "comments": [
+        {
+          "id": 1,
+          "userName": "Ali_2614",
+          "text": "در حد و اندازه خودش عالیه فقط باید چند تا نکته رو توجه داشته باشید یکی اینکه زیر ۱۲ ولت اخر ولوم خر خر میکنه دوم اینکه از منبع تغذیه ای استفاده بشه که آمپرش بالای ۱۰ باشه هرچی ولتاژ و امپر بیشتر باشه(تا حد مجاز البته) کیفیت عالی تری داره با اداپتور معمولی صدای کمی میتونید بگیرید ازش نکته خیلی مثبتش اینه که اگه احیانا منفی مثبت برعکش وصل بشه هیچ آسیبی نمیرسونه به ماژول،فقط روشن نمیشه،یعنی اینکه محافظ داره حتما حتما در کنار باندها یک جفت تیوتر استفاده کنید برای کیفیت بهتر صدا نیاز نیست تیوتر میلیونی بگیرید،در حد ۴۰۰ تا ۵۰۰ تومن هم جواب میده خیلی راحت با یه ماژول بلوتوث ارزون قیمت مچ میشه وعالی جواب میده امیدوارم کمکی کرده باشم",
+          "date": "۵ شهریور ۱۴۰۴",
+          "likes": [
+            "pooya_77",
+            "mohsen_lab",
+            "behnam_92",
+            "nima_maker",
+            "tara_dev",
+            "sina_electro",
+            "kasra_mcu",
+            "elham_iot"
+          ],
+          "dislikes": []
+        },
+        {
+          "id": 2,
+          "userName": "hosein_84",
+          "text": "درود قبلاً از این مدل استفاده کردم خوبه فقط باید از منبع تغذیه با آمپر حداقل ۳ آمپر استفاده کنید تا کم نیاره آمپلی فایر قویی هست از بلندگوی مناسب استفاده کنین عالیه",
+          "date": "۳ دی ۱۴۰۴",
+          "likes": [
+            "omid_tech",
+            "kasra_mcu",
+            "mohsen_lab",
+            "tara_dev",
+            "sina_electro",
+            "navid_arduino",
+            "elham_iot",
+            "reza_elec",
+            "behnam_92",
+            "dorsa_elec",
+            "mehrdad_tech",
+            "kimia_maker",
+            "parisa_92",
+            "lida_maker",
+            "fatemeh_m",
+            "yasin_elec",
+            "ali_dev"
+          ],
+          "dislikes": [
+            "armin_iot",
+            "nima_maker",
+            "sara_tech",
+            "roya_circuits"
+          ]
+        },
+        {
+          "id": 3,
+          "userName": "sara_elec",
+          "text": "برای یک پروژه اسپیکر رومیزی تهیه‌اش کردم. با منبع تغذیه مناسب نتیجه قابل قبولی گرفتم و راه‌اندازی‌اش هم پیچیده نبود.",
+          "date": "۱۲ مهر ۱۴۰۵",
+          "likes": [
+            "navid_arduino",
+            "sina_electro",
+            "omid_tech",
+            "tara_dev",
+            "sahar_dev",
+            "mohsen_lab",
+            "fatemeh_m",
+            "roya_circuits",
+            "behnam_92",
+            "kasra_mcu",
+            "armin_iot"
+          ],
+          "dislikes": [
+            "yasin_elec",
+            "shayan_dev"
+          ]
+        },
+        {
+          "id": 4,
+          "userName": "reza_dev",
+          "text": "کیفیت صدا نسبت به اندازه برد خوبه، البته انتخاب بلندگو و منبع تغذیه خیلی تاثیر داره.",
+          "date": "۲۸ شهریور ۱۴۰۵",
+          "likes": [
+            "dorsa_elec",
+            "reza_elec",
+            "parisa_92",
+            "kasra_mcu",
+            "mohsen_lab",
+            "lida_maker",
+            "sahar_dev",
+            "kimia_maker",
+            "navid_arduino",
+            "ali_dev",
+            "behnam_92",
+            "omid_tech",
+            "sina_electro"
+          ],
+          "dislikes": [
+            "shayan_dev",
+            "armin_iot"
+          ]
+        },
+        {
+          "id": 5,
+          "userName": "mohsen_lab",
+          "text": "برای نمونه‌سازی مناسب بود. قبل از اتصال بلندگوها حتماً سیم‌کشی و ولتاژ تغذیه رو بررسی کنید.",
+          "date": "۱۵ شهریور ۱۴۰۵",
+          "likes": [
+            "behnam_92",
+            "pooya_77",
+            "reza_elec",
+            "parisa_92",
+            "kimia_maker",
+            "ali_dev",
+            "roya_circuits",
+            "tara_dev",
+            "sina_electro"
+          ],
+          "dislikes": [
+            "sahar_dev",
+            "lida_maker",
+            "shayan_dev"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "ماژول شارژ TP4056",
+      "description": "ماژول TP4056 برای شارژ باتری‌های لیتیوم‌یونی تک‌سل با ورودی micro USB کاربرد دارد. این برد در نسخه‌های دارای مدار محافظ، قابلیت محافظت در برابر برخی شرایط نامناسب مانند اضافه‌شارژ و تخلیه بیش از حد را نیز فراهم می‌کند. اندازه کوچک آن باعث می‌شود برای پروژه‌های قابل‌حمل، چراغ‌های شارژی و نمونه‌سازی مدارهای باتری‌محور مناسب باشد. پیش از اتصال، نسخه ماژول و مشخصات باتری را بررسی کنید و قطب‌های مثبت و منفی را درست متصل کنید.",
+      "price": 15000,
+      "img": "/images/ah.jpg",
+      "comments": [
+        {
+          "id": 1,
+          "userName": "Ali",
+          "text": "عالی",
+          "date": "۳ فروردین ۱۴۰۵",
+          "likes": [
+            "nima_maker",
+            "navid_arduino",
+            "mohsen_lab",
+            "omid_tech"
+          ],
+          "dislikes": []
+        },
+        {
+          "id": 2,
+          "userName": "nima_circuits",
+          "text": "برای شارژ باتری تک‌سل استفاده کردم و روی میز تست خوب جواب داد. حتماً نسخه دارای محافظ رو با دقت از روی برد تشخیص بدید.",
+          "date": "۸ مهر ۱۴۰۵",
+          "likes": [
+            "tara_dev",
+            "parisa_92"
+          ],
+          "dislikes": [
+            "sara_tech",
+            "fatemeh_m",
+            "behnam_92",
+            "elham_iot",
+            "mohsen_lab"
+          ]
+        },
+        {
+          "id": 3,
+          "userName": "parisa_tech",
+          "text": "اندازه کوچیکی داره و برای پروژه‌های قابل حمل خوبه. توضیحات مربوط به باتری و قطب‌ها رو قبل از استفاده بخونید.",
+          "date": "۲۱ شهریور ۱۴۰۵",
+          "likes": [
+            "reza_elec"
+          ],
+          "dislikes": [
+            "kasra_mcu",
+            "nima_maker",
+            "armin_iot"
+          ]
+        },
+        {
+          "id": 4,
+          "userName": "reza_robot",
+          "text": "برای نمونه‌سازی مناسبه. بهتره قبل از اتصال به مدار اصلی، جداگانه تستش کنید.",
+          "date": "۱۵ شهریور ۱۴۰۵",
+          "likes": [
+            "yasin_elec",
+            "mahdi_electro",
+            "behnam_92",
+            "lida_maker",
+            "elham_iot",
+            "parisa_92",
+            "mohsen_lab"
+          ],
+          "dislikes": [
+            "sara_tech",
+            "saman_coder",
+            "kasra_mcu"
+          ]
+        },
+        {
+          "id": 5,
+          "userName": "mina_arduino",
+          "text": "برای کارهای ساده و آموزشی مناسبه. اگر پروژه حساس دارید بهتره قبل از نصب، کامل تستش کنید.",
+          "date": "۲۵ تیر ۱۴۰۵",
+          "likes": [
+            "ali_dev",
+            "lida_maker"
+          ],
+          "dislikes": [
+            "dorsa_elec"
+          ]
+        },
+        {
+          "id": 6,
+          "userName": "negara_iot",
+          "text": "همون چیزی بود که برای مدارم لازم داشتم. توضیحات فنی محصول کمک می‌کنه انتخاب دقیق‌تری داشته باشید.",
+          "date": "۱۹ مرداد ۱۴۰۵",
+          "likes": [
+            "kasra_mcu"
+          ],
+          "dislikes": [
+            "armin_iot",
+            "amir_circuit",
+            "yasin_elec"
+          ]
+        },
+        {
+          "id": 7,
+          "userName": "parisa_92",
+          "text": "برای نمونه‌سازی مناسبه. بهتره قبل از اتصال به مدار اصلی، جداگانه تستش کنید.",
+          "date": "۲۲ شهریور ۱۴۰۵",
+          "likes": [
+            "nima_maker",
+            "mahdi_electro",
+            "pooya_77",
+            "omid_tech",
+            "reza_elec",
+            "kimia_maker",
+            "hadi_robotics"
+          ],
+          "dislikes": [
+            "mohsen_lab",
+            "sina_electro"
+          ]
+        },
+        {
+          "id": 8,
+          "userName": "reza_elec",
+          "text": "به دستم رسید و بعد از تست اولیه درست کار کرد. برای کارهای آموزشی گزینه خوبیه.",
+          "date": "۱۹ مرداد ۱۴۰۵",
+          "likes": [
+            "nima_maker",
+            "navid_arduino",
+            "kasra_mcu",
+            "saman_coder",
+            "roya_circuits",
+            "shayan_maker",
+            "parisa_92",
+            "sina_electro",
+            "sara_tech"
+          ],
+          "dislikes": [
+            "dorsa_elec",
+            "elham_iot",
+            "tara_dev"
+          ]
+        },
+        {
+          "id": 9,
+          "userName": "armin_iot",
+          "text": "برای پروژه آزمایشی تهیه کردم و عملکردش مطابق انتظار بود. بسته‌بندی هم مناسب بود.",
+          "date": "۷ شهریور ۱۴۰۵",
+          "likes": [],
+          "dislikes": [
+            "shayan_maker",
+            "mohsen_lab",
+            "fatemeh_m"
+          ]
+        },
+        {
+          "id": 10,
+          "userName": "sara_tech",
+          "text": "برای پروژه آزمایشی تهیه کردم و عملکردش مطابق انتظار بود. بسته‌بندی هم مناسب بود.",
+          "date": "۲۵ تیر ۱۴۰۵",
+          "likes": [
+            "hadi_robotics",
+            "behnam_92",
+            "mohsen_lab",
+            "yasin_elec",
+            "navid_arduino",
+            "elham_iot",
+            "mina_arduino",
+            "armin_iot",
+            "shayan_maker"
+          ],
+          "dislikes": [
+            "ali_dev",
+            "roya_circuits"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "ماژول YL-69",
+      "description": "سنسور رطوبت خاک YL-69 برای بررسی نسبی میزان رطوبت خاک در پروژه‌های آموزشی و سیستم‌های آبیاری هوشمند استفاده می‌شود. این سنسور معمولاً همراه یک برد مقایسه‌گر عرضه می‌شود و امکان دریافت خروجی آنالوگ یا دیجیتال را در اختیار پروژه قرار می‌دهد. می‌توانید آن را به آردوینو یا میکروکنترلرهای سازگار وصل کنید و بر اساس مقدار خوانده‌شده، وضعیت خاک را روی نمایشگر نشان دهید یا پمپ آب را کنترل کنید. برای افزایش عمر سنسور، بهتر است از تغذیه و شرایط استفاده مناسب بهره ببرید.",
+      "price": 25000,
+      "img": "/images/yl.jpeg",
+      "comments": [
+        {
+          "id": 1,
+          "userName": "parisa_92",
+          "text": "برای کارهای ساده و آموزشی مناسبه. اگر پروژه حساس دارید بهتره قبل از نصب، کامل تستش کنید.",
+          "date": "۱۰ مرداد ۱۴۰۵",
+          "likes": [
+            "sara_tech",
+            "shayan_maker",
+            "yasin_elec",
+            "mehrdad_tech",
+            "dorsa_elec",
+            "navid_arduino",
+            "ali_dev",
+            "tara_dev"
+          ],
+          "dislikes": [
+            "armin_iot"
+          ]
+        },
+        {
+          "id": 2,
+          "userName": "negara_iot",
+          "text": "کیفیت ساختش خوبه؛ فقط قبل از استفاده مشخصات فنی رو با نیاز پروژه‌تون تطبیق بدید.",
+          "date": "۱۰ مرداد ۱۴۰۵",
+          "likes": [
+            "shayan_maker",
+            "behnam_92",
+            "sina_electro"
+          ],
+          "dislikes": [
+            "ali_dev"
+          ]
+        },
+        {
+          "id": 3,
+          "userName": "tara_dev",
+          "text": "راه‌اندازی ماژول پیچیده نبود، ولی حتماً ولتاژ ورودی مجازش رو رعایت کنید.",
+          "date": "۱۷ تیر ۱۴۰۵",
+          "likes": [
+            "hadi_robotics",
+            "navid_arduino"
+          ],
+          "dislikes": [
+            "shayan_maker",
+            "roya_circuits"
+          ]
+        },
+        {
+          "id": 4,
+          "userName": "armin_iot",
+          "text": "به دستم رسید و بعد از تست اولیه درست کار کرد. برای کارهای آموزشی گزینه خوبیه.",
+          "date": "۱۷ تیر ۱۴۰۵",
+          "likes": [
+            "pooya_77",
+            "roya_circuits",
+            "amir_circuit",
+            "saman_coder",
+            "fatemeh_m",
+            "behnam_92",
+            "reza_elec",
+            "negara_iot",
+            "reza_robot"
+          ],
+          "dislikes": [
+            "shayan_maker"
+          ]
+        },
+        {
+          "id": 5,
+          "userName": "kasra_mcu",
+          "text": "برای کارهای ساده و آموزشی مناسبه. اگر پروژه حساس دارید بهتره قبل از نصب، کامل تستش کنید.",
+          "date": "۲۹ شهریور ۱۴۰۵",
+          "likes": [
+            "kimia_maker",
+            "ali_dev",
+            "parisa_92",
+            "reza_elec"
+          ],
+          "dislikes": [
+            "yasin_elec",
+            "reza_robot"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "سنسور حرکتی PIR",
+      "description": "سنسور حرکتی PIR با تشخیص تغییرات تابش فروسرخ، برای شناسایی حرکت افراد در محدوده دید خود به کار می‌رود. این قطعه در پروژه‌هایی مانند روشنایی خودکار، سیستم هشدار ساده و کنترل هوشمند اتاق کاربرد دارد. خروجی سنسور را می‌توان به ورودی دیجیتال یک میکروکنترلر متصل کرد و پس از تشخیص حرکت، چراغ یا آژیر را فعال کرد. زمان تأخیر و حساسیت در بسیاری از بردهای این خانواده قابل تنظیم است؛ عملکرد نهایی به محل نصب و شرایط محیطی وابسته خواهد بود.",
+      "price": 80000,
+      "img": "",
+      "comments": [
+        {
+          "id": 1,
+          "userName": "arman_electro",
+          "text": "برای روشنایی خودکار اتاق استفاده کردم. محل نصب روی حساسیت تشخیص حرکت تاثیر زیادی داره.",
+          "date": "۱۱ مهر ۱۴۰۵",
+          "likes": [
+            "navid_arduino",
+            "sina_electro",
+            "reza_elec",
+            "nima_maker",
+            "fatemeh_m",
+            "roya_circuits",
+            "yasin_elec",
+            "ali_dev",
+            "elham_iot",
+            "omid_tech",
+            "sara_tech",
+            "lida_maker",
+            "kimia_maker",
+            "tara_dev"
+          ],
+          "dislikes": [
+            "sahar_dev",
+            "mohsen_lab",
+            "mehrdad_tech",
+            "shayan_dev",
+            "armin_iot"
+          ]
+        },
+        {
+          "id": 2,
+          "userName": "mahdi_arduino",
+          "text": "با آردوینو راحت راه افتاد. چند بار زمان تأخیر رو تنظیم کردم تا برای پروژه‌ام مناسب بشه.",
+          "date": "۲۹ شهریور ۱۴۰۵",
+          "likes": [
+            "dorsa_elec",
+            "tara_dev",
+            "sahar_dev",
+            "navid_arduino",
+            "ali_dev",
+            "pooya_77",
+            "yasin_elec"
+          ],
+          "dislikes": [
+            "sina_electro",
+            "kasra_mcu",
+            "omid_tech",
+            "mohsen_lab"
+          ]
+        },
+        {
+          "id": 3,
+          "userName": "reza_elec",
+          "text": "از نظر کارایی راضی بودم و نصبش سخت نبود. راهنمای پایه‌ها رو حتماً با دقت بخونید.",
+          "date": "۱۲ مهر ۱۴۰۵",
+          "likes": [
+            "ali_dev",
+            "mina_arduino"
+          ],
+          "dislikes": [
+            "saman_coder"
+          ]
+        },
+        {
+          "id": 4,
+          "userName": "hadi_robotics",
+          "text": "کیفیت ساختش خوبه؛ فقط قبل از استفاده مشخصات فنی رو با نیاز پروژه‌تون تطبیق بدید.",
+          "date": "۷ شهریور ۱۴۰۵",
+          "likes": [],
+          "dislikes": [
+            "nima_maker",
+            "mohsen_lab",
+            "negara_iot"
+          ]
+        },
+        {
+          "id": 5,
+          "userName": "negara_iot",
+          "text": "قطعه کاربردیه و برای پروژه‌های دانشجویی مناسبه. بهتره اتصالات رو قبل از روشن کردن دوباره چک کنید.",
+          "date": "۱۹ مرداد ۱۴۰۵",
+          "likes": [
+            "amir_circuit",
+            "shayan_maker",
+            "reza_elec"
+          ],
+          "dislikes": [
+            "mehrdad_tech"
+          ]
+        },
+        {
+          "id": 6,
+          "userName": "sara_tech",
+          "text": "برای نمونه‌سازی استفاده کردم و فعلاً مشکلی نداشته. زمان استفاده طولانی‌تر هم باید بررسی بشه.",
+          "date": "۲۲ شهریور ۱۴۰۵",
+          "likes": [
+            "kimia_maker",
+            "lida_maker",
+            "omid_tech",
+            "yasin_elec",
+            "amir_circuit",
+            "hadi_robotics",
+            "reza_robot",
+            "shayan_maker",
+            "roya_circuits"
+          ],
+          "dislikes": []
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "رزبری پای 4 مدل B",
+      "description": "رزبری پای 4 مدل B یک رایانه تک‌بردی کوچک است که برای آموزش لینوکس، ساخت سرورهای خانگی سبک، اتوماسیون و پروژه‌های اینترنت اشیا استفاده می‌شود. بسته به نسخه حافظه، می‌توان سیستم‌عامل سازگار را روی کارت microSD نصب کرد و از درگاه‌های USB، شبکه و خروجی تصویر بهره برد. این برد برای اجرای پروژه‌های نرم‌افزاری و اتصال تجهیزات جانبی انعطاف‌پذیری خوبی دارد. منبع تغذیه مناسب و خنک‌کاری متناسب با نوع استفاده به پایداری عملکرد کمک می‌کند.",
+      "price": 2800000,
+      "img": "",
+      "comments": [
+        {
+          "id": 1,
+          "userName": "ali_codes",
+          "text": "برای تمرین لینوکس و اجرای چند سرویس سبک گزینه جذابیه. منبع تغذیه مناسب رو فراموش نکنید.",
+          "date": "۹ مهر ۱۴۰۵",
+          "likes": [
+            "elham_iot",
+            "tara_dev",
+            "yasin_elec"
+          ],
+          "dislikes": []
+        },
+        {
+          "id": 2,
+          "userName": "sina_pi",
+          "text": "ابعادش کوچیکه ولی برای پروژه‌های آموزشی امکانات خوبی داره. انتخاب کارت حافظه مناسب هم مهمه.",
+          "date": "۲۳ شهریور ۱۴۰۵",
+          "likes": [
+            "parisa_92",
+            "kasra_mcu",
+            "elham_iot",
+            "armin_iot",
+            "pooya_77",
+            "roya_circuits",
+            "ali_dev"
+          ],
+          "dislikes": [
+            "reza_elec"
+          ]
+        },
+        {
+          "id": 3,
+          "userName": "mohsen_lab",
+          "text": "همون چیزی بود که برای مدارم لازم داشتم. توضیحات فنی محصول کمک می‌کنه انتخاب دقیق‌تری داشته باشید.",
+          "date": "۸ مهر ۱۴۰۵",
+          "likes": [
+            "saman_coder",
+            "tara_dev",
+            "parisa_92"
+          ],
+          "dislikes": [
+            "pooya_77"
+          ]
+        },
+        {
+          "id": 4,
+          "userName": "omid_tech",
+          "text": "از نظر کارایی راضی بودم و نصبش سخت نبود. راهنمای پایه‌ها رو حتماً با دقت بخونید.",
+          "date": "۳ مرداد ۱۴۰۵",
+          "likes": [
+            "negara_iot"
+          ],
+          "dislikes": [
+            "nima_maker"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "نمایشگر OLED 0.96 اینچ",
+      "description": "نمایشگر OLED با اندازه ۰٫۹۶ اینچ برای نمایش متن، آیکون و اطلاعات سنسورها در پروژه‌های الکترونیکی کوچک مناسب است. این نمایشگر در بسیاری از نسخه‌ها از رابط I2C استفاده می‌کند و با بردهایی مانند آردوینو و برخی میکروکنترلرهای دیگر قابل راه‌اندازی است. مصرف کم و کنتراست مناسب آن باعث می‌شود برای نمایش وضعیت دستگاه، مقدار دما یا رطوبت و منوهای ساده انتخاب خوبی باشد. پیش از اتصال، نوع کنترلر، ولتاژ کاری و پایه‌های ماژول خود را بررسی کنید.",
+      "price": 150000,
+      "img": "",
+      "comments": [
+        {
+          "id": 1,
+          "userName": "roya_maker",
+          "text": "برای نمایش مقدار سنسورها روی پروژه آردوینو گرفتم. متن و آیکون‌ها واضح دیده می‌شن.",
+          "date": "۱۴ مهر ۱۴۰۵",
+          "likes": [
+            "mehrdad_tech"
+          ],
+          "dislikes": [
+            "elham_iot",
+            "pooya_77",
+            "ali_dev",
+            "roya_circuits",
+            "navid_arduino"
+          ]
+        },
+        {
+          "id": 2,
+          "userName": "amir_hobby",
+          "text": "قبل از خرید پایه‌ها و رابط I2C مدل خودتون رو بررسی کنید؛ برای پروژه کوچک من مناسب بود.",
+          "date": "۲۷ شهریور ۱۴۰۵",
+          "likes": [],
+          "dislikes": [
+            "sara_tech"
+          ]
+        },
+        {
+          "id": 3,
+          "userName": "pooya_77",
+          "text": "برای کارهای آموزشی مناسبه، فقط جریان مجاز LED رو رعایت کنید.",
+          "date": "۱۹ مرداد ۱۴۰۵",
+          "likes": [
+            "negara_iot",
+            "sina_electro",
+            "armin_iot",
+            "parisa_92",
+            "mahdi_electro",
+            "fatemeh_m",
+            "saman_coder"
+          ],
+          "dislikes": [
+            "elham_iot"
+          ]
+        },
+        {
+          "id": 4,
+          "userName": "yasin_elec",
+          "text": "برای تست روی بردبورد خوب جواب داد. کیفیت نهایی طبیعتاً به نحوه اتصال و شرایط مدار هم بستگی داره.",
+          "date": "۸ مهر ۱۴۰۵",
+          "likes": [
+            "shayan_maker",
+            "tara_dev",
+            "ali_dev",
+            "mina_arduino",
+            "sina_electro",
+            "reza_robot",
+            "lida_maker",
+            "pooya_77"
+          ],
+          "dislikes": [
+            "negara_iot"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "ماژول GPS NEO-6M",
+      "description": "ماژول GPS NEO-6M برای دریافت اطلاعات موقعیت‌یابی از ماهواره‌ها و استفاده در پروژه‌های ردیابی و ناوبری آموزشی طراحی شده است. این ماژول معمولاً داده‌ها را از طریق ارتباط سریال در اختیار میکروکنترلر قرار می‌دهد و می‌توان مختصات، سرعت یا زمان را در نرم‌افزار پردازش کرد. کیفیت دریافت سیگنال به آنتن، محل نصب و دید مناسب به آسمان وابسته است؛ بنابراین در فضای بسته ممکن است زمان بیشتری برای دریافت موقعیت لازم باشد. برای اتصال، سطح ولتاژ و نرخ ارتباط سریال را بررسی کنید.",
+      "price": 320000,
+      "img": "",
+      "comments": [
+        {
+          "id": 1,
+          "userName": "farhad_gps",
+          "text": "در فضای باز بعد از کمی انتظار مختصات دریافت شد. داخل ساختمان عملکردش قابل مقایسه با فضای باز نیست.",
+          "date": "۵ مهر ۱۴۰۵",
+          "likes": [
+            "elham_iot",
+            "dorsa_elec",
+            "tara_dev",
+            "fatemeh_m",
+            "kasra_mcu",
+            "armin_iot",
+            "behnam_92",
+            "sina_electro",
+            "nima_maker",
+            "navid_arduino",
+            "mohsen_lab",
+            "shayan_dev"
+          ],
+          "dislikes": [
+            "omid_tech",
+            "kimia_maker",
+            "pooya_77",
+            "yasin_elec",
+            "sahar_dev"
+          ]
+        },
+        {
+          "id": 2,
+          "userName": "hadi_robotics",
+          "text": "قطعه کاربردیه و برای پروژه‌های دانشجویی مناسبه. بهتره اتصالات رو قبل از روشن کردن دوباره چک کنید.",
+          "date": "۱۲ مهر ۱۴۰۵",
+          "likes": [
+            "saman_coder",
+            "nima_maker",
+            "roya_circuits",
+            "armin_iot",
+            "reza_elec",
+            "kasra_mcu",
+            "reza_robot"
+          ],
+          "dislikes": [
+            "dorsa_elec",
+            "lida_maker"
+          ]
+        },
+        {
+          "id": 3,
+          "userName": "nima_maker",
+          "text": "در اولین تست عملکردش خوب بود؛ امیدوارم در استفاده طولانی‌مدت هم همین‌طور بمونه.",
+          "date": "۱۲ مهر ۱۴۰۵",
+          "likes": [
+            "reza_elec",
+            "roya_circuits"
+          ],
+          "dislikes": [
+            "mohsen_lab",
+            "tara_dev"
+          ]
+        },
+        {
+          "id": 4,
+          "userName": "armin_iot",
+          "text": "برای کارهای ساده و آموزشی مناسبه. اگر پروژه حساس دارید بهتره قبل از نصب، کامل تستش کنید.",
+          "date": "۱۲ مهر ۱۴۰۵",
+          "likes": [
+            "mina_arduino",
+            "fatemeh_m",
+            "roya_circuits",
+            "pooya_77",
+            "shayan_maker",
+            "elham_iot",
+            "sina_electro",
+            "omid_tech",
+            "kimia_maker"
+          ],
+          "dislikes": [
+            "ali_dev",
+            "negara_iot"
+          ]
+        },
+        {
+          "id": 5,
+          "userName": "sara_tech",
+          "text": "کیفیت ساختش خوبه؛ فقط قبل از استفاده مشخصات فنی رو با نیاز پروژه‌تون تطبیق بدید.",
+          "date": "۷ شهریور ۱۴۰۵",
+          "likes": [
+            "navid_arduino",
+            "lida_maker",
+            "yasin_elec",
+            "amir_circuit",
+            "armin_iot",
+            "tara_dev",
+            "mohsen_lab",
+            "negara_iot",
+            "kasra_mcu"
+          ],
+          "dislikes": [
+            "ali_dev",
+            "pooya_77",
+            "reza_elec"
+          ]
+        },
+        {
+          "id": 6,
+          "userName": "tara_dev",
+          "text": "نسبت به قیمتش قابل قبوله. اگر دیتاشیت رو دقیق بررسی کنید راه‌اندازی راحت‌تر می‌شه.",
+          "date": "۲۲ شهریور ۱۴۰۵",
+          "likes": [],
+          "dislikes": [
+            "hadi_robotics",
+            "kimia_maker"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "ماژول RFID RC522",
+      "description": "ماژول RFID RC522 امکان خواندن تگ‌ها و کارت‌های سازگار با فرکانس ۱۳٫۵۶ مگاهرتز را در پروژه‌های آموزشی فراهم می‌کند. از آن می‌توان برای ساخت نمونه اولیه سیستم حضور و غیاب، کنترل دسترسی یا شناسایی کارت استفاده کرد. ارتباط این ماژول با بسیاری از بردهای توسعه از طریق SPI انجام می‌شود و نمونه‌کدهای آموزشی متعددی برای آن وجود دارد. این ماژول به‌تنهایی یک سامانه امنیتی کامل نیست؛ برای کاربردهای واقعی باید محدودیت‌های امنیتی کارت‌ها و روش احراز هویت را در نظر بگیرید.",
+      "price": 90000,
+      "img": "",
+      "comments": [
+        {
+          "id": 1,
+          "userName": "elham_iot",
+          "text": "برای پروژه آزمایشی کنترل دسترسی استفاده کردم و با کتابخانه مناسب راه‌اندازی شد.",
+          "date": "۱۰ مهر ۱۴۰۵",
+          "likes": [
+            "mehrdad_tech",
+            "tara_dev",
+            "yasin_elec",
+            "sahar_dev",
+            "parisa_92",
+            "sina_electro",
+            "dorsa_elec",
+            "kasra_mcu",
+            "pooya_77",
+            "shayan_dev",
+            "ali_dev",
+            "fatemeh_m",
+            "behnam_92",
+            "lida_maker",
+            "sara_tech"
+          ],
+          "dislikes": [
+            "reza_elec",
+            "kimia_maker",
+            "mohsen_lab"
+          ]
+        },
+        {
+          "id": 2,
+          "userName": "reza_mcu",
+          "text": "برای یادگیری RFID خوبه؛ فقط نباید اون رو به‌تنهایی یک راهکار امنیتی کامل در نظر گرفت.",
+          "date": "۲۲ شهریور ۱۴۰۵",
+          "likes": [
+            "sahar_dev",
+            "dorsa_elec",
+            "pooya_77",
+            "sina_electro",
+            "navid_arduino",
+            "kasra_mcu",
+            "mehrdad_tech",
+            "tara_dev",
+            "yasin_elec"
+          ],
+          "dislikes": [
+            "lida_maker",
+            "sara_tech"
+          ]
+        },
+        {
+          "id": 3,
+          "userName": "hadi_robotics",
+          "text": "از نظر کارایی راضی بودم و نصبش سخت نبود. راهنمای پایه‌ها رو حتماً با دقت بخونید.",
+          "date": "۱۰ مرداد ۱۴۰۵",
+          "likes": [
+            "parisa_92"
+          ],
+          "dislikes": [
+            "roya_circuits"
+          ]
+        },
+        {
+          "id": 4,
+          "userName": "parisa_92",
+          "text": "قطعه کاربردیه و برای پروژه‌های دانشجویی مناسبه. بهتره اتصالات رو قبل از روشن کردن دوباره چک کنید.",
+          "date": "۱۲ مهر ۱۴۰۵",
+          "likes": [
+            "saman_coder",
+            "tara_dev",
+            "hadi_robotics",
+            "sara_tech",
+            "pooya_77"
+          ],
+          "dislikes": []
+        },
+        {
+          "id": 5,
+          "userName": "reza_elec",
+          "text": "خرید خوبی بود. پیشنهاد می‌کنم قبل از اتصال، ولتاژ و پایه‌ها رو از روی مشخصات محصول بررسی کنید.",
+          "date": "۲۸ مرداد ۱۴۰۵",
+          "likes": [
+            "mahdi_electro",
+            "pooya_77",
+            "shayan_maker"
+          ],
+          "dislikes": [
+            "kasra_mcu"
+          ]
+        },
+        {
+          "id": 6,
+          "userName": "sara_tech",
+          "text": "به دستم رسید و بعد از تست اولیه درست کار کرد. برای کارهای آموزشی گزینه خوبیه.",
+          "date": "۲۸ مرداد ۱۴۰۵",
+          "likes": [
+            "sina_electro",
+            "parisa_92",
+            "amir_circuit",
+            "tara_dev",
+            "mehrdad_tech",
+            "ali_dev",
+            "negara_iot",
+            "kasra_mcu",
+            "behnam_92"
+          ],
+          "dislikes": [
+            "navid_arduino",
+            "omid_tech"
+          ]
+        },
+        {
+          "id": 7,
+          "userName": "saman_coder",
+          "text": "برای نمونه‌سازی مناسبه. بهتره قبل از اتصال به مدار اصلی، جداگانه تستش کنید.",
+          "date": "۱۷ تیر ۱۴۰۵",
+          "likes": [
+            "mahdi_electro",
+            "reza_robot",
+            "omid_tech",
+            "tara_dev",
+            "mehrdad_tech",
+            "parisa_92",
+            "sara_tech",
+            "elham_iot",
+            "nima_maker"
+          ],
+          "dislikes": [
+            "amir_circuit",
+            "navid_arduino"
+          ]
+        },
+        {
+          "id": 8,
+          "userName": "navid_arduino",
+          "text": "همون چیزی بود که برای مدارم لازم داشتم. توضیحات فنی محصول کمک می‌کنه انتخاب دقیق‌تری داشته باشید.",
+          "date": "۱۵ شهریور ۱۴۰۵",
+          "likes": [
+            "mehrdad_tech"
+          ],
+          "dislikes": [
+            "roya_circuits",
+            "fatemeh_m"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "سنسور گاز MQ-2",
+      "description": "سنسور MQ-2 برای تشخیص نسبی دود و برخی گازهای قابل اشتعال در پروژه‌های آموزشی و آزمایشگاهی استفاده می‌شود. خروجی آن با تغییر غلظت گازهای هدف تغییر می‌کند و می‌توان از آن برای نمایش مقدار تقریبی یا فعال‌کردن هشدار در یک نمونه اولیه بهره برد. این حسگر به زمان گرم‌شدن و کالیبراسیون نیاز دارد و نتیجه آن به شرایط محیطی وابسته است. برای ایمنی واقعی یا تشخیص استاندارد نشت گاز، به این ماژول ارزان‌قیمت به‌تنهایی اتکا نکنید و از تجهیزات تأییدشده استفاده کنید.",
+      "price": 70000,
+      "img": "",
+      "comments": [
+        {
+          "id": 1,
+          "userName": "sahar_lab",
+          "text": "برای تمرین خواندن مقدار آنالوگ و فعال‌کردن هشدار استفاده کردم. زمان گرم‌شدن سنسور رو در نظر بگیرید.",
+          "date": "۱۳ مهر ۱۴۰۵",
+          "likes": [
+            "roya_circuits",
+            "sina_electro",
+            "nima_maker",
+            "kimia_maker"
+          ],
+          "dislikes": [
+            "elham_iot"
+          ]
+        },
+        {
+          "id": 2,
+          "userName": "mehrdad_tech",
+          "text": "خرید خوبی بود. پیشنهاد می‌کنم قبل از اتصال، ولتاژ و پایه‌ها رو از روی مشخصات محصول بررسی کنید.",
+          "date": "۸ مهر ۱۴۰۵",
+          "likes": [
+            "fatemeh_m",
+            "pooya_77",
+            "kimia_maker",
+            "shayan_maker",
+            "tara_dev",
+            "dorsa_elec",
+            "mina_arduino"
+          ],
+          "dislikes": [
+            "reza_robot",
+            "nima_maker"
+          ]
+        },
+        {
+          "id": 3,
+          "userName": "pooya_77",
+          "text": "برای نمونه‌سازی استفاده کردم و فعلاً مشکلی نداشته. زمان استفاده طولانی‌تر هم باید بررسی بشه.",
+          "date": "۲۲ شهریور ۱۴۰۵",
+          "likes": [
+            "mehrdad_tech",
+            "roya_circuits",
+            "reza_elec",
+            "omid_tech",
+            "shayan_maker",
+            "negara_iot",
+            "tara_dev"
+          ],
+          "dislikes": [
+            "fatemeh_m",
+            "elham_iot",
+            "kasra_mcu"
+          ]
+        },
+        {
+          "id": 4,
+          "userName": "dorsa_elec",
+          "text": "کیفیت ساختش خوبه؛ فقط قبل از استفاده مشخصات فنی رو با نیاز پروژه‌تون تطبیق بدید.",
+          "date": "۲۲ شهریور ۱۴۰۵",
+          "likes": [],
+          "dislikes": [
+            "mohsen_lab"
+          ]
+        },
+        {
+          "id": 5,
+          "userName": "behnam_92",
+          "text": "برای کارهای ساده و آموزشی مناسبه. اگر پروژه حساس دارید بهتره قبل از نصب، کامل تستش کنید.",
+          "date": "۱۷ تیر ۱۴۰۵",
+          "likes": [
+            "dorsa_elec",
+            "mina_arduino",
+            "shayan_maker",
+            "nima_maker"
+          ],
+          "dislikes": [
+            "mohsen_lab",
+            "lida_maker",
+            "ali_dev"
+          ]
+        },
+        {
+          "id": 6,
+          "userName": "shayan_maker",
+          "text": "برای تست روی بردبورد خوب جواب داد. کیفیت نهایی طبیعتاً به نحوه اتصال و شرایط مدار هم بستگی داره.",
+          "date": "۲۸ مرداد ۱۴۰۵",
+          "likes": [
+            "fatemeh_m",
+            "lida_maker",
+            "dorsa_elec",
+            "yasin_elec",
+            "ali_dev",
+            "reza_elec",
+            "sina_electro"
+          ],
+          "dislikes": [
+            "kasra_mcu",
+            "mehrdad_tech",
+            "armin_iot"
+          ]
+        },
+        {
+          "id": 7,
+          "userName": "mahdi_electro",
+          "text": "به دستم رسید و بعد از تست اولیه درست کار کرد. برای کارهای آموزشی گزینه خوبیه.",
+          "date": "۱۷ تیر ۱۴۰۵",
+          "likes": [
+            "reza_robot",
+            "dorsa_elec",
+            "sina_electro"
+          ],
+          "dislikes": [
+            "omid_tech"
+          ]
+        },
+        {
+          "id": 8,
+          "userName": "ali_dev",
+          "text": "برای نمونه‌سازی استفاده کردم و فعلاً مشکلی نداشته. زمان استفاده طولانی‌تر هم باید بررسی بشه.",
+          "date": "۸ مهر ۱۴۰۵",
+          "likes": [
+            "behnam_92",
+            "roya_circuits",
+            "amir_circuit",
+            "sina_electro",
+            "armin_iot",
+            "mohsen_lab",
+            "kasra_mcu"
+          ],
+          "dislikes": [
+            "elham_iot"
+          ]
+        },
+        {
+          "id": 9,
+          "userName": "roya_circuits",
+          "text": "خرید خوبی بود. پیشنهاد می‌کنم قبل از اتصال، ولتاژ و پایه‌ها رو از روی مشخصات محصول بررسی کنید.",
+          "date": "۷ شهریور ۱۴۰۵",
+          "likes": [
+            "parisa_92",
+            "navid_arduino",
+            "ali_dev",
+            "hadi_robotics",
+            "reza_elec",
+            "mohsen_lab"
+          ],
+          "dislikes": [
+            "kasra_mcu"
+          ]
+        },
+        {
+          "id": 10,
+          "userName": "mohsen_lab",
+          "text": "نسبت به قیمتش قابل قبوله. اگر دیتاشیت رو دقیق بررسی کنید راه‌اندازی راحت‌تر می‌شه.",
+          "date": "۳ مرداد ۱۴۰۵",
+          "likes": [
+            "negara_iot"
+          ],
+          "dislikes": [
+            "ali_dev",
+            "mina_arduino",
+            "navid_arduino"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "ماژول رله 5 ولت",
+      "description": "ماژول رله ۵ ولت یک راه ساده برای کنترل بارهای الکتریکی از طریق خروجی میکروکنترلر فراهم می‌کند. در نمونه‌های تک‌کاناله، ورودی فرمان می‌تواند از بردهایی مانند آردوینو دریافت شود و کنتاکت رله مدار بار را قطع یا وصل کند. این ماژول برای اتوماسیون خانگی آموزشی و کنترل چراغ یا تجهیزات کم‌خطر کاربرد دارد. هنگام کار با برق شهر، رعایت فاصله عایقی، محفظه مناسب و اصول ایمنی ضروری است؛ جریان و ولتاژ مجاز را از مشخصات دقیق همان برد بررسی کنید.",
+      "price": 40000,
+      "img": "",
+      "comments": []
+    },
+    {
+      "id": 11,
+      "name": "ماژول وای فای ESP8266",
+      "description": "ماژول ESP8266 امکان افزودن ارتباط Wi‑Fi به پروژه‌های اینترنت اشیا را فراهم می‌کند. بسته به مدل برد، می‌توان از آن برای ارسال داده سنسورها، کنترل تجهیزات از طریق شبکه محلی یا ارتباط با سرویس‌های اینترنتی استفاده کرد. این خانواده با محیط‌های توسعه مختلف و کتابخانه‌های متنوع پشتیبانی می‌شود و برای یادگیری ارتباط بی‌سیم گزینه محبوبی است. سطح ولتاژ منطقی و جریان موردنیاز را در طراحی مدار در نظر بگیرید و برای عملکرد پایدار، منبع تغذیه مناسب فراهم کنید.",
+      "price": 110000,
+      "img": "",
+      "comments": [
+        {
+          "id": 1,
+          "userName": "navid_iot",
+          "text": "برای ارسال داده سنسور به شبکه استفاده کردم. تغذیه پایدار خیلی مهمه چون هنگام اتصال وای‌فای جریان تغییر می‌کنه.",
+          "date": "۱۶ مهر ۱۴۰۵",
+          "likes": [
+            "yasin_elec",
+            "behnam_92",
+            "roya_circuits",
+            "mohsen_lab",
+            "navid_arduino",
+            "kimia_maker",
+            "mehrdad_tech"
+          ],
+          "dislikes": [
+            "shayan_dev",
+            "elham_iot",
+            "armin_iot"
+          ]
+        },
+        {
+          "id": 2,
+          "userName": "kimia_dev",
+          "text": "کتابخانه‌های زیادی براش هست و برای شروع اینترنت اشیا انتخاب خوبیه.",
+          "date": "۲۶ شهریور ۱۴۰۵",
+          "likes": [
+            "kimia_maker",
+            "dorsa_elec",
+            "mehrdad_tech",
+            "reza_elec",
+            "pooya_77",
+            "roya_circuits",
+            "navid_arduino",
+            "elham_iot",
+            "behnam_92",
+            "sara_tech",
+            "nima_maker",
+            "fatemeh_m",
+            "omid_tech",
+            "yasin_elec",
+            "shayan_dev",
+            "ali_dev",
+            "sina_electro"
+          ],
+          "dislikes": [
+            "parisa_92",
+            "tara_dev"
+          ]
+        },
+        {
+          "id": 3,
+          "userName": "reza_robot",
+          "text": "کیفیت ساختش خوبه؛ فقط قبل از استفاده مشخصات فنی رو با نیاز پروژه‌تون تطبیق بدید.",
+          "date": "۱۲ مهر ۱۴۰۵",
+          "likes": [
+            "fatemeh_m"
+          ],
+          "dislikes": [
+            "sara_tech",
+            "hadi_robotics"
+          ]
+        },
+        {
+          "id": 4,
+          "userName": "dorsa_elec",
+          "text": "نسبت به قیمتش قابل قبوله. اگر دیتاشیت رو دقیق بررسی کنید راه‌اندازی راحت‌تر می‌شه.",
+          "date": "۷ شهریور ۱۴۰۵",
+          "likes": [],
+          "dislikes": [
+            "omid_tech",
+            "pooya_77",
+            "roya_circuits"
+          ]
+        },
+        {
+          "id": 5,
+          "userName": "sina_electro",
+          "text": "برای نمونه‌سازی مناسبه. بهتره قبل از اتصال به مدار اصلی، جداگانه تستش کنید.",
+          "date": "۷ شهریور ۱۴۰۵",
+          "likes": [
+            "tara_dev"
+          ],
+          "dislikes": []
+        },
+        {
+          "id": 6,
+          "userName": "nima_maker",
+          "text": "برای پروژه آزمایشی تهیه کردم و عملکردش مطابق انتظار بود. بسته‌بندی هم مناسب بود.",
+          "date": "۱۷ تیر ۱۴۰۵",
+          "likes": [
+            "navid_arduino",
+            "behnam_92",
+            "hadi_robotics",
+            "dorsa_elec",
+            "parisa_92",
+            "armin_iot",
+            "shayan_maker",
+            "sara_tech",
+            "reza_robot"
+          ],
+          "dislikes": []
+        },
+        {
+          "id": 7,
+          "userName": "mehrdad_tech",
+          "text": "برای نمونه‌سازی استفاده کردم و فعلاً مشکلی نداشته. زمان استفاده طولانی‌تر هم باید بررسی بشه.",
+          "date": "۲۸ مرداد ۱۴۰۵",
+          "likes": [
+            "tara_dev",
+            "sina_electro",
+            "hadi_robotics",
+            "navid_arduino"
+          ],
+          "dislikes": []
+        },
+        {
+          "id": 8,
+          "userName": "shayan_maker",
+          "text": "برای تست روی بردبورد خوب جواب داد. کیفیت نهایی طبیعتاً به نحوه اتصال و شرایط مدار هم بستگی داره.",
+          "date": "۱۷ تیر ۱۴۰۵",
+          "likes": [
+            "sara_tech",
+            "negara_iot",
+            "behnam_92",
+            "mehrdad_tech",
+            "kimia_maker",
+            "tara_dev"
+          ],
+          "dislikes": [
+            "mahdi_electro",
+            "yasin_elec"
+          ]
+        },
+        {
+          "id": 9,
+          "userName": "lida_maker",
+          "text": "همون چیزی بود که برای مدارم لازم داشتم. توضیحات فنی محصول کمک می‌کنه انتخاب دقیق‌تری داشته باشید.",
+          "date": "۷ شهریور ۱۴۰۵",
+          "likes": [
+            "elham_iot"
+          ],
+          "dislikes": [
+            "armin_iot",
+            "negara_iot",
+            "navid_arduino"
+          ]
+        },
+        {
+          "id": 10,
+          "userName": "mina_arduino",
+          "text": "در اولین تست عملکردش خوب بود؛ امیدوارم در استفاده طولانی‌مدت هم همین‌طور بمونه.",
+          "date": "۸ مهر ۱۴۰۵",
+          "likes": [
+            "roya_circuits",
+            "sara_tech",
+            "negara_iot"
+          ],
+          "dislikes": []
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "ماژول ولتاژ LM2596",
+      "description": "ماژول کاهنده LM2596 برای کاهش ولتاژ DC و تنظیم خروجی در پروژه‌های تغذیه کاربرد دارد. با تنظیم پتانسیومتر روی برد می‌توان ولتاژ خروجی را در محدوده مجاز ماژول تغییر داد و آن را برای تغذیه برخی مدارها به کار برد. این ماژول برای نمونه‌سازی و ساخت منبع تغذیه قابل تنظیم مناسب است، اما مقدار جریان قابل استفاده به نسخه برد، خنک‌کاری و شرایط کاری وابسته است. پیش از اتصال مدار حساس، ولتاژ خروجی را با مولتی‌متر اندازه بگیرید.",
+      "price": 50000,
+      "img": "",
+      "comments": [
+        {
+          "id": 1,
+          "userName": "ehsan_power",
+          "text": "خروجی رو با مولتی‌متر تنظیم کردم و برای مدار آزمایشی‌ام کاربردی بود. قبل از اتصال مدار حساس حتماً اندازه بگیرید.",
+          "date": "۴ مهر ۱۴۰۵",
+          "likes": [],
+          "dislikes": [
+            "pooya_77",
+            "yasin_elec",
+            "dorsa_elec"
+          ]
+        },
+        {
+          "id": 2,
+          "userName": "mohammad_elec",
+          "text": "برای پایین آوردن ولتاژ منبع استفاده کردم. میزان جریان و دما رو در استفاده طولانی بررسی کنید.",
+          "date": "۱۷ شهریور ۱۴۰۵",
+          "likes": [
+            "behnam_92",
+            "ali_dev",
+            "armin_iot",
+            "elham_iot",
+            "navid_arduino",
+            "kimia_maker",
+            "nima_maker",
+            "kasra_mcu",
+            "lida_maker",
+            "reza_elec",
+            "tara_dev",
+            "mehrdad_tech",
+            "sahar_dev",
+            "omid_tech",
+            "mohsen_lab",
+            "fatemeh_m"
+          ],
+          "dislikes": [
+            "parisa_92"
+          ]
+        },
+        {
+          "id": 3,
+          "userName": "parisa_92",
+          "text": "برای کارهای ساده و آموزشی مناسبه. اگر پروژه حساس دارید بهتره قبل از نصب، کامل تستش کنید.",
+          "date": "۱۲ مهر ۱۴۰۵",
+          "likes": [
+            "dorsa_elec",
+            "reza_elec",
+            "lida_maker"
+          ],
+          "dislikes": [
+            "yasin_elec"
+          ]
+        },
+        {
+          "id": 4,
+          "userName": "negara_iot",
+          "text": "برای نمونه‌سازی مناسبه. بهتره قبل از اتصال به مدار اصلی، جداگانه تستش کنید.",
+          "date": "۷ شهریور ۱۴۰۵",
+          "likes": [
+            "reza_elec",
+            "behnam_92",
+            "dorsa_elec",
+            "tara_dev",
+            "shayan_maker",
+            "ali_dev"
+          ],
+          "dislikes": [
+            "elham_iot",
+            "navid_arduino"
+          ]
+        },
+        {
+          "id": 5,
+          "userName": "tara_dev",
+          "text": "خرید خوبی بود. پیشنهاد می‌کنم قبل از اتصال، ولتاژ و پایه‌ها رو از روی مشخصات محصول بررسی کنید.",
+          "date": "۳ مرداد ۱۴۰۵",
+          "likes": [
+            "mahdi_electro",
+            "reza_robot"
+          ],
+          "dislikes": []
+        },
+        {
+          "id": 6,
+          "userName": "armin_iot",
+          "text": "در اولین تست عملکردش خوب بود؛ امیدوارم در استفاده طولانی‌مدت هم همین‌طور بمونه.",
+          "date": "۳ مرداد ۱۴۰۵",
+          "likes": [
+            "nima_maker",
+            "shayan_maker",
+            "negara_iot",
+            "reza_robot",
+            "roya_circuits",
+            "pooya_77",
+            "sina_electro",
+            "fatemeh_m",
+            "lida_maker"
+          ],
+          "dislikes": [
+            "sara_tech",
+            "ali_dev"
+          ]
+        },
+        {
+          "id": 7,
+          "userName": "saman_coder",
+          "text": "به دستم رسید و بعد از تست اولیه درست کار کرد. برای کارهای آموزشی گزینه خوبیه.",
+          "date": "۸ مهر ۱۴۰۵",
+          "likes": [
+            "sara_tech",
+            "armin_iot"
+          ],
+          "dislikes": [
+            "mahdi_electro",
+            "amir_circuit",
+            "reza_robot"
+          ]
+        },
+        {
+          "id": 8,
+          "userName": "mina_arduino",
+          "text": "همون چیزی بود که برای مدارم لازم داشتم. توضیحات فنی محصول کمک می‌کنه انتخاب دقیق‌تری داشته باشید.",
+          "date": "۱۲ مهر ۱۴۰۵",
+          "likes": [
+            "mehrdad_tech",
+            "yasin_elec",
+            "roya_circuits"
+          ],
+          "dislikes": []
+        },
+        {
+          "id": 9,
+          "userName": "yasin_elec",
+          "text": "همون چیزی بود که برای مدارم لازم داشتم. توضیحات فنی محصول کمک می‌کنه انتخاب دقیق‌تری داشته باشید.",
+          "date": "۱۹ مرداد ۱۴۰۵",
+          "likes": [
+            "dorsa_elec",
+            "amir_circuit",
+            "armin_iot",
+            "lida_maker",
+            "nima_maker",
+            "fatemeh_m",
+            "negara_iot"
+          ],
+          "dislikes": [
+            "ali_dev",
+            "mehrdad_tech",
+            "saman_coder"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "ماژول موتور درایور L298N",
+      "description": "درایور موتور L298N برای کنترل جهت چرخش و سرعت دو موتور DC یا راه‌اندازی برخی موتورهای پله‌ای در پروژه‌های آموزشی استفاده می‌شود. این برد معمولاً ورودی‌های کنترلی برای تعیین جهت و پایه‌های فعال‌سازی برای کنترل سرعت با PWM دارد. از آن می‌توان در ربات‌های کوچک، خودروهای کنترلی و نمونه‌های آزمایشگاهی بهره برد. به دلیل افت ولتاژ و تولید گرما، مشخصات موتور و منبع تغذیه را پیش از استفاده بررسی کنید و در صورت نیاز خنک‌کاری مناسب در نظر بگیرید.",
+      "price": 130000,
+      "img": "",
+      "comments": [
+        {
+          "id": 1,
+          "userName": "pooya_robot",
+          "text": "برای ربات دو موتوره آزمایشی گرفتم. کنترل جهت ساده بود ولی باید افت ولتاژ درایور رو در نظر گرفت.",
+          "date": "۱۲ مهر ۱۴۰۵",
+          "likes": [
+            "kimia_maker",
+            "sahar_dev",
+            "omid_tech",
+            "pooya_77",
+            "nima_maker"
+          ],
+          "dislikes": [
+            "dorsa_elec",
+            "mehrdad_tech",
+            "fatemeh_m",
+            "behnam_92"
+          ]
+        },
+        {
+          "id": 2,
+          "userName": "amir_circuit",
+          "text": "همون چیزی بود که برای مدارم لازم داشتم. توضیحات فنی محصول کمک می‌کنه انتخاب دقیق‌تری داشته باشید.",
+          "date": "۲۵ تیر ۱۴۰۵",
+          "likes": [
+            "omid_tech",
+            "roya_circuits",
+            "mahdi_electro",
+            "ali_dev"
+          ],
+          "dislikes": [
+            "pooya_77"
+          ]
+        },
+        {
+          "id": 3,
+          "userName": "dorsa_elec",
+          "text": "برای نمونه‌سازی مناسبه. بهتره قبل از اتصال به مدار اصلی، جداگانه تستش کنید.",
+          "date": "۱۰ مرداد ۱۴۰۵",
+          "likes": [
+            "omid_tech",
+            "shayan_maker",
+            "sina_electro",
+            "mina_arduino",
+            "amir_circuit",
+            "pooya_77",
+            "mahdi_electro",
+            "yasin_elec"
+          ],
+          "dislikes": []
+        },
+        {
+          "id": 4,
+          "userName": "parisa_92",
+          "text": "راه‌اندازی ماژول پیچیده نبود، ولی حتماً ولتاژ ورودی مجازش رو رعایت کنید.",
+          "date": "۲۵ تیر ۱۴۰۵",
+          "likes": [
+            "sara_tech",
+            "kimia_maker",
+            "omid_tech",
+            "navid_arduino"
+          ],
+          "dislikes": [
+            "lida_maker",
+            "roya_circuits",
+            "saman_coder"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "سنسور اثر انگشت R307",
+      "description": "سنسور اثر انگشت R307 برای ساخت نمونه‌های اولیه شناسایی بیومتریک و کنترل دسترسی کاربرد دارد. این ماژول می‌تواند فرایند ثبت و تطبیق اثر انگشت را در پروژه‌های سازگار انجام دهد و از طریق رابط ارتباطی پشتیبانی‌شده با میکروکنترلر ارتباط برقرار کند. از آن می‌توان برای تمرین کار با داده‌های بیومتریک، قفل آزمایشی یا سیستم ثبت ورود استفاده کرد. برای استفاده واقعی، به حریم خصوصی، نگهداری امن داده‌ها و محدودیت‌های امنیتی سامانه توجه کنید.",
+      "price": 650000,
+      "img": "",
+      "comments": []
+    },
+    {
+      "id": 15,
+      "name": "پاوربانک ماژول شارژ TP4056",
+      "description": "این ماژول شارژ TP4056 برای ساخت پروژه‌های کوچک باتری‌محور و پاوربانک‌های آزمایشی مناسب است. بردهای این خانواده معمولاً برای شارژ یک سلول لیتیوم‌یونی طراحی شده‌اند و برخی نسخه‌ها مدار محافظ باتری نیز دارند. می‌توان از آن در چراغ‌های قابل‌شارژ، ابزارهای قابل‌حمل و نمونه‌سازی مدارهای کم‌مصرف استفاده کرد. این ماژول به‌تنهایی مبدل افزاینده ولتاژ خروجی USB نیست؛ برای ساخت پاوربانک کامل ممکن است به مدارهای دیگری نیاز باشد. پیش از استفاده، نسخه دقیق برد و باتری سازگار را بررسی کنید.",
+      "price": 30000,
+      "img": "",
+      "comments": [
+        {
+          "id": 1,
+          "userName": "dorsa_elec",
+          "text": "برای نمونه‌سازی استفاده کردم و فعلاً مشکلی نداشته. زمان استفاده طولانی‌تر هم باید بررسی بشه.",
+          "date": "۳ مرداد ۱۴۰۵",
+          "likes": [
+            "mohsen_lab",
+            "yasin_elec",
+            "behnam_92",
+            "ali_dev",
+            "roya_circuits",
+            "kasra_mcu",
+            "tara_dev",
+            "reza_elec"
+          ],
+          "dislikes": [
+            "kimia_maker",
+            "negara_iot"
+          ]
+        },
+        {
+          "id": 2,
+          "userName": "hadi_robotics",
+          "text": "راه‌اندازی ماژول پیچیده نبود، ولی حتماً ولتاژ ورودی مجازش رو رعایت کنید.",
+          "date": "۱۰ مرداد ۱۴۰۵",
+          "likes": [
+            "amir_circuit",
+            "sara_tech",
+            "armin_iot",
+            "mehrdad_tech",
+            "lida_maker",
+            "parisa_92",
+            "ali_dev"
+          ],
+          "dislikes": [
+            "tara_dev",
+            "reza_elec",
+            "navid_arduino"
+          ]
+        },
+        {
+          "id": 3,
+          "userName": "pooya_77",
+          "text": "به دستم رسید و بعد از تست اولیه درست کار کرد. برای کارهای آموزشی گزینه خوبیه.",
+          "date": "۲۵ تیر ۱۴۰۵",
+          "likes": [
+            "sina_electro",
+            "roya_circuits",
+            "tara_dev",
+            "navid_arduino",
+            "kasra_mcu",
+            "behnam_92",
+            "kimia_maker"
+          ],
+          "dislikes": [
+            "reza_robot"
+          ]
+        },
+        {
+          "id": 4,
+          "userName": "reza_robot",
+          "text": "از نظر کارایی راضی بودم و نصبش سخت نبود. راهنمای پایه‌ها رو حتماً با دقت بخونید.",
+          "date": "۱۰ مرداد ۱۴۰۵",
+          "likes": [
+            "mehrdad_tech",
+            "yasin_elec",
+            "negara_iot",
+            "sara_tech"
+          ],
+          "dislikes": [
+            "kimia_maker",
+            "armin_iot"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "ماژول صدای DFPlayer Mini",
+      "description": "ماژول DFPlayer Mini یک پخش‌کننده کوچک فایل‌های صوتی است که می‌تواند فایل‌های MP3 را از کارت حافظه microSD بخواند. این ماژول برای ساخت پخش‌کننده پیام صوتی، اسباب‌بازی تعاملی، راهنمای صوتی یا پروژه‌های آردوینو کاربرد دارد. کنترل پخش، توقف و انتخاب فایل در مدل‌های رایج از طریق ارتباط سریال انجام می‌شود و برخی نسخه‌ها امکان اتصال بلندگوی کوچک را نیز دارند. برای جلوگیری از خطا، کارت حافظه را با ساختار مناسب آماده کنید و مشخصات تغذیه و بلندگو را رعایت کنید.",
+      "price": 100000,
+      "img": "",
+      "comments": [
+        {
+          "id": 1,
+          "userName": "arash_audio",
+          "text": "برای پخش پیام صوتی در پروژه آردوینو استفاده کردم. مرتب‌کردن فایل‌ها روی کارت حافظه کمک کرد درست اجرا بشه.",
+          "date": "۱۵ مهر ۱۴۰۵",
+          "likes": [
+            "nima_maker",
+            "parisa_92",
+            "navid_arduino",
+            "omid_tech",
+            "lida_maker",
+            "dorsa_elec",
+            "fatemeh_m",
+            "roya_circuits",
+            "sina_electro",
+            "reza_elec",
+            "mehrdad_tech"
+          ],
+          "dislikes": [
+            "sahar_dev",
+            "kasra_mcu",
+            "shayan_dev"
+          ]
+        },
+        {
+          "id": 2,
+          "userName": "niloofar_maker",
+          "text": "برای یک پروژه تعاملی کوچک خوب بود و فرمان‌های پخش از طریق سریال کار کردند.",
+          "date": "۲۴ شهریور ۱۴۰۵",
+          "likes": [
+            "reza_elec",
+            "kimia_maker",
+            "armin_iot"
+          ],
+          "dislikes": [
+            "shayan_dev",
+            "sahar_dev",
+            "sina_electro",
+            "tara_dev"
+          ]
+        },
+        {
+          "id": 3,
+          "userName": "reza_robot",
+          "text": "از نظر کارایی راضی بودم و نصبش سخت نبود. راهنمای پایه‌ها رو حتماً با دقت بخونید.",
+          "date": "۱۷ تیر ۱۴۰۵",
+          "likes": [
+            "parisa_92",
+            "behnam_92",
+            "ali_dev",
+            "mehrdad_tech"
+          ],
+          "dislikes": [
+            "shayan_maker",
+            "roya_circuits",
+            "nima_maker"
+          ]
+        },
+        {
+          "id": 4,
+          "userName": "pooya_77",
+          "text": "برای پروژه آزمایشی تهیه کردم و عملکردش مطابق انتظار بود. بسته‌بندی هم مناسب بود.",
+          "date": "۲۹ شهریور ۱۴۰۵",
+          "likes": [
+            "mohsen_lab",
+            "amir_circuit",
+            "dorsa_elec"
+          ],
+          "dislikes": [
+            "kimia_maker"
+          ]
+        },
+        {
+          "id": 5,
+          "userName": "amir_circuit",
+          "text": "از نظر کارایی راضی بودم و نصبش سخت نبود. راهنمای پایه‌ها رو حتماً با دقت بخونید.",
+          "date": "۲۵ تیر ۱۴۰۵",
+          "likes": [
+            "negara_iot",
+            "roya_circuits",
+            "saman_coder",
+            "dorsa_elec"
+          ],
+          "dislikes": [
+            "nima_maker",
+            "ali_dev",
+            "yasin_elec"
+          ]
+        },
+        {
+          "id": 6,
+          "userName": "dorsa_elec",
+          "text": "در اولین تست عملکردش خوب بود؛ امیدوارم در استفاده طولانی‌مدت هم همین‌طور بمونه.",
+          "date": "۱۷ تیر ۱۴۰۵",
+          "likes": [
+            "amir_circuit",
+            "negara_iot",
+            "kimia_maker",
+            "nima_maker",
+            "kasra_mcu",
+            "reza_elec",
+            "behnam_92"
+          ],
+          "dislikes": [
+            "armin_iot",
+            "saman_coder"
+          ]
+        },
+        {
+          "id": 7,
+          "userName": "roya_circuits",
+          "text": "برای پروژه آزمایشی تهیه کردم و عملکردش مطابق انتظار بود. بسته‌بندی هم مناسب بود.",
+          "date": "۳ مرداد ۱۴۰۵",
+          "likes": [
+            "reza_robot",
+            "parisa_92",
+            "tara_dev",
+            "reza_elec",
+            "kimia_maker"
+          ],
+          "dislikes": [
+            "yasin_elec",
+            "shayan_maker"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "سنسور فشار بارومتریک BMP180",
+      "description": "سنسور BMP180 برای اندازه‌گیری فشار هوا و محاسبه تقریبی ارتفاع در پروژه‌های هواشناسی و آموزشی استفاده می‌شود. این قطعه از طریق رابط I2C با بسیاری از میکروکنترلرها ارتباط برقرار می‌کند و می‌توان داده‌های آن را برای نمایش روی OLED یا ثبت در حافظه به کار برد. دقت نتیجه به شرایط محیطی، کالیبراسیون و روش محاسبه وابسته است؛ تغییرات فشار هوا نیز بر تخمین ارتفاع اثر می‌گذارد. پیش از سیم‌کشی، ولتاژ کاری و پایه‌های برد مورد استفاده را بررسی کنید.",
+      "price": 85000,
+      "img": "",
+      "comments": [
+        {
+          "id": 1,
+          "userName": "kasra_sensor",
+          "text": "برای ثبت فشار هوا و نمایش روی OLED استفاده کردم. برای تخمین ارتفاع باید تغییر فشار محیط رو هم در نظر گرفت.",
+          "date": "۶ مهر ۱۴۰۵",
+          "likes": [
+            "dorsa_elec",
+            "elham_iot",
+            "mohsen_lab",
+            "kimia_maker",
+            "reza_elec",
+            "ali_dev",
+            "parisa_92",
+            "sara_tech",
+            "nima_maker",
+            "lida_maker",
+            "kasra_mcu",
+            "roya_circuits",
+            "fatemeh_m"
+          ],
+          "dislikes": [
+            "sina_electro",
+            "pooya_77",
+            "tara_dev",
+            "mehrdad_tech",
+            "sahar_dev"
+          ]
+        },
+        {
+          "id": 2,
+          "userName": "ali_dev",
+          "text": "برای تست روی بردبورد خوب جواب داد. کیفیت نهایی طبیعتاً به نحوه اتصال و شرایط مدار هم بستگی داره.",
+          "date": "۸ مهر ۱۴۰۵",
+          "likes": [
+            "amir_circuit",
+            "pooya_77",
+            "reza_elec"
+          ],
+          "dislikes": [
+            "kasra_mcu",
+            "lida_maker",
+            "dorsa_elec"
+          ]
+        },
+        {
+          "id": 3,
+          "userName": "yasin_elec",
+          "text": "در اولین تست عملکردش خوب بود؛ امیدوارم در استفاده طولانی‌مدت هم همین‌طور بمونه.",
+          "date": "۱۹ مرداد ۱۴۰۵",
+          "likes": [
+            "negara_iot"
+          ],
+          "dislikes": [
+            "navid_arduino"
+          ]
+        },
+        {
+          "id": 4,
+          "userName": "behnam_92",
+          "text": "در تست اولیه مقدارها قابل قبول بود. برای دقت بهتر کالیبراسیون رو فراموش نکنید.",
+          "date": "۲۸ مرداد ۱۴۰۵",
+          "likes": [
+            "lida_maker",
+            "shayan_maker",
+            "armin_iot",
+            "ali_dev"
+          ],
+          "dislikes": [
+            "dorsa_elec",
+            "omid_tech"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "برد بورد 830 پین",
+      "description": "برد بورد ۸۳۰ پین برای بستن و آزمایش مدارهای الکترونیکی بدون لحیم‌کاری طراحی شده است. این برد امکان جابه‌جایی سریع قطعات DIP، مقاومت‌ها، LEDها و سیم‌های جامپر را فراهم می‌کند و برای یادگیری مدارهای پایه و نمونه‌سازی اولیه بسیار کاربردی است. ریل‌های تغذیه در دو طرف برد اتصال منظم‌تری ایجاد می‌کنند، اما آرایش داخلی سوراخ‌ها را باید مطابق نقشه برد در نظر گرفت. برای جلوگیری از اتصال کوتاه، پیش از روشن‌کردن مدار سیم‌کشی را دوباره بررسی کنید.",
+      "price": 75000,
+      "img": "",
+      "comments": []
+    },
+    {
+      "id": 19,
+      "name": "کابل جامپر 40 تایی",
+      "description": "این مجموعه شامل ۴۰ سیم جامپر آماده برای اتصال قطعات و ماژول‌ها روی برد بورد است. سیم‌ها در نمونه‌سازی مدارهای آردوینو، رزبری پای و سایر بردهای توسعه کمک می‌کنند تا بدون لحیم‌کاری ارتباط بین پایه‌ها برقرار شود. بسته به نوع مجموعه، ممکن است سیم‌های نری، مادگی یا ترکیبی ارائه شوند؛ بنابراین نوع کانکتورها را با پایه‌های برد خود تطبیق دهید. برای کاهش خطا، از رنگ‌های مختلف برای مسیرهای تغذیه، زمین و سیگنال استفاده کنید.",
+      "price": 25000,
+      "img": "",
+      "comments": [
+        {
+          "id": 1,
+          "userName": "shayan_mcu",
+          "text": "برای اتصال سنسورها روی برد بورد استفاده کردم. رنگ‌بندی سیم‌ها پیدا کردن مسیرها رو راحت‌تر می‌کنه.",
+          "date": "۳ مهر ۱۴۰۵",
+          "likes": [
+            "parisa_92",
+            "elham_iot",
+            "ali_dev"
+          ],
+          "dislikes": [
+            "mohsen_lab",
+            "sahar_dev",
+            "pooya_77",
+            "sina_electro"
+          ]
+        },
+        {
+          "id": 2,
+          "userName": "reza_robot",
+          "text": "در اولین تست عملکردش خوب بود؛ امیدوارم در استفاده طولانی‌مدت هم همین‌طور بمونه.",
+          "date": "۳ مرداد ۱۴۰۵",
+          "likes": [
+            "dorsa_elec",
+            "lida_maker",
+            "mina_arduino",
+            "behnam_92"
+          ],
+          "dislikes": [
+            "saman_coder",
+            "parisa_92",
+            "omid_tech"
+          ]
+        },
+        {
+          "id": 3,
+          "userName": "kimia_maker",
+          "text": "نسبت به قیمتش قابل قبوله. اگر دیتاشیت رو دقیق بررسی کنید راه‌اندازی راحت‌تر می‌شه.",
+          "date": "۷ شهریور ۱۴۰۵",
+          "likes": [
+            "parisa_92",
+            "hadi_robotics",
+            "reza_robot",
+            "roya_circuits",
+            "ali_dev",
+            "mohsen_lab",
+            "mahdi_electro"
+          ],
+          "dislikes": []
+        },
+        {
+          "id": 4,
+          "userName": "parisa_92",
+          "text": "نسبت به قیمتش قابل قبوله. اگر دیتاشیت رو دقیق بررسی کنید راه‌اندازی راحت‌تر می‌شه.",
+          "date": "۱۹ مرداد ۱۴۰۵",
+          "likes": [
+            "dorsa_elec",
+            "reza_robot",
+            "saman_coder",
+            "nima_maker",
+            "ali_dev",
+            "yasin_elec",
+            "sara_tech"
+          ],
+          "dislikes": [
+            "kimia_maker",
+            "mahdi_electro",
+            "shayan_maker"
+          ]
+        },
+        {
+          "id": 5,
+          "userName": "shayan_maker",
+          "text": "برای کارهای ساده و آموزشی مناسبه. اگر پروژه حساس دارید بهتره قبل از نصب، کامل تستش کنید.",
+          "date": "۲۸ مرداد ۱۴۰۵",
+          "likes": [
+            "behnam_92",
+            "mina_arduino",
+            "roya_circuits",
+            "navid_arduino",
+            "tara_dev",
+            "negara_iot",
+            "lida_maker"
+          ],
+          "dislikes": [
+            "reza_elec",
+            "reza_robot",
+            "nima_maker"
+          ]
+        },
+        {
+          "id": 6,
+          "userName": "roya_circuits",
+          "text": "همون چیزی بود که برای مدارم لازم داشتم. توضیحات فنی محصول کمک می‌کنه انتخاب دقیق‌تری داشته باشید.",
+          "date": "۱۹ مرداد ۱۴۰۵",
+          "likes": [],
+          "dislikes": [
+            "negara_iot"
+          ]
+        },
+        {
+          "id": 7,
+          "userName": "lida_maker",
+          "text": "برای پروژه آزمایشی تهیه کردم و عملکردش مطابق انتظار بود. بسته‌بندی هم مناسب بود.",
+          "date": "۷ شهریور ۱۴۰۵",
+          "likes": [
+            "reza_elec"
+          ],
+          "dislikes": [
+            "dorsa_elec",
+            "yasin_elec",
+            "roya_circuits"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "سنسور ضربان قلب Pulse Sensor",
+      "description": "سنسور Pulse Sensor برای دریافت سیگنال نوری مرتبط با ضربان قلب و استفاده آموزشی در پروژه‌های زیست‌سنجی طراحی شده است. این سنسور معمولاً به ورودی آنالوگ میکروکنترلر متصل می‌شود و با پردازش سیگنال می‌توان نمودار یا تخمین ضربان را نمایش داد. کیفیت اندازه‌گیری به محل قرارگیری، حرکت دست، نور محیط و الگوریتم پردازش وابسته است. این قطعه برای تمرین و نمونه‌سازی مناسب است و نباید برای تشخیص پزشکی یا تصمیم‌گیری درمانی استفاده شود.",
+      "price": 180000,
+      "img": "",
+      "comments": [
+        {
+          "id": 1,
+          "userName": "parham_bio",
+          "text": "برای پروژه نمایشی اندازه‌گیری ضربان قلب استفاده کردم. با ثابت نگه داشتن انگشت، داده‌ها بهتر می‌شدن.",
+          "date": "۸ مهر ۱۴۰۵",
+          "likes": [
+            "armin_iot"
+          ],
+          "dislikes": [
+            "sahar_dev"
+          ]
+        },
+        {
+          "id": 2,
+          "userName": "sina_electro",
+          "text": "نسبت به قیمتش قابل قبوله. اگر دیتاشیت رو دقیق بررسی کنید راه‌اندازی راحت‌تر می‌شه.",
+          "date": "۲۵ تیر ۱۴۰۵",
+          "likes": [
+            "reza_elec",
+            "reza_robot",
+            "pooya_77",
+            "mohsen_lab"
+          ],
+          "dislikes": [
+            "omid_tech"
+          ]
+        },
+        {
+          "id": 3,
+          "userName": "ali_dev",
+          "text": "کیفیت ساختش خوبه؛ فقط قبل از استفاده مشخصات فنی رو با نیاز پروژه‌تون تطبیق بدید.",
+          "date": "۷ شهریور ۱۴۰۵",
+          "likes": [
+            "armin_iot",
+            "negara_iot",
+            "mina_arduino",
+            "reza_robot",
+            "lida_maker",
+            "navid_arduino",
+            "mahdi_electro",
+            "kasra_mcu"
+          ],
+          "dislikes": [
+            "reza_elec"
+          ]
+        },
+        {
+          "id": 4,
+          "userName": "dorsa_elec",
+          "text": "نسبت به قیمتش قابل قبوله. اگر دیتاشیت رو دقیق بررسی کنید راه‌اندازی راحت‌تر می‌شه.",
+          "date": "۲۹ شهریور ۱۴۰۵",
+          "likes": [
+            "sara_tech",
+            "hadi_robotics",
+            "pooya_77",
+            "mohsen_lab",
+            "negara_iot",
+            "armin_iot"
+          ],
+          "dislikes": [
+            "sina_electro"
+          ]
+        },
+        {
+          "id": 5,
+          "userName": "mina_arduino",
+          "text": "با اتصال درست به میکروکنترلر راه افتاد؛ پایه‌بندی رو قبل از سیم‌کشی چک کنید.",
+          "date": "۱۹ مرداد ۱۴۰۵",
+          "likes": [
+            "tara_dev"
+          ],
+          "dislikes": [
+            "roya_circuits",
+            "mehrdad_tech",
+            "fatemeh_m"
+          ]
+        },
+        {
+          "id": 6,
+          "userName": "shayan_maker",
+          "text": "برای کارهای ساده و آموزشی مناسبه. اگر پروژه حساس دارید بهتره قبل از نصب، کامل تستش کنید.",
+          "date": "۲۸ مرداد ۱۴۰۵",
+          "likes": [
+            "mehrdad_tech",
+            "elham_iot",
+            "kasra_mcu",
+            "yasin_elec",
+            "tara_dev",
+            "mohsen_lab",
+            "hadi_robotics"
+          ],
+          "dislikes": [
+            "behnam_92",
+            "kimia_maker",
+            "nima_maker"
+          ]
+        },
+        {
+          "id": 7,
+          "userName": "saman_coder",
+          "text": "برای کارهای ساده و آموزشی مناسبه. اگر پروژه حساس دارید بهتره قبل از نصب، کامل تستش کنید.",
+          "date": "۱۵ شهریور ۱۴۰۵",
+          "likes": [
+            "fatemeh_m",
+            "mina_arduino"
+          ],
+          "dislikes": [
+            "shayan_maker"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "برد آردوینو Nano",
+      "description": "ماژول آردوینو Nano یک برد توسعه کوچک برای ساخت نمونه‌های اولیه و پروژه‌های آموزشی است. ابعاد جمع‌وجور آن امکان نصب روی برد بورد را فراهم می‌کند و می‌توان از پایه‌های دیجیتال و آنالوگ برای اتصال سنسورها، LEDها و ماژول‌های جانبی استفاده کرد. پیش از خرید یا اتصال، نوع تراشه، رابط USB و سطح ولتاژ نسخه موردنظر را بررسی کنید؛ مدل‌های مختلف ممکن است از نظر سخت‌افزار و درایور تفاوت داشته باشند.",
+      "price": 220000,
+      "img": "",
+      "comments": [
+        {
+          "id": 1,
+          "userName": "saman_maker",
+          "text": "برای پروژه‌های کوچک و تمرین آردوینو مناسب بود. قبل از نصب درایور USB مدل برد رو بررسی کنید.",
+          "date": "۱۰ مهر ۱۴۰۵",
+          "likes": [
+            "parisa_92",
+            "dorsa_elec",
+            "behnam_92",
+            "omid_tech",
+            "reza_elec",
+            "sahar_dev",
+            "sara_tech",
+            "tara_dev",
+            "roya_circuits"
+          ],
+          "dislikes": [
+            "lida_maker",
+            "sina_electro",
+            "ali_dev",
+            "shayan_dev"
+          ]
+        },
+        {
+          "id": 2,
+          "userName": "lida_elec",
+          "text": "روی برد بورد به‌راحتی جا می‌گیره و برای نمونه‌سازی سریع انتخاب خوبیه.",
+          "date": "۲۲ شهریور ۱۴۰۵",
+          "likes": [
+            "mohsen_lab",
+            "fatemeh_m",
+            "shayan_dev",
+            "pooya_77",
+            "kimia_maker",
+            "kasra_mcu",
+            "lida_maker",
+            "yasin_elec",
+            "parisa_92",
+            "mehrdad_tech",
+            "dorsa_elec"
+          ],
+          "dislikes": [
+            "ali_dev",
+            "sahar_dev"
+          ]
+        },
+        {
+          "id": 3,
+          "userName": "tara_dev",
+          "text": "برای پروژه آزمایشی تهیه کردم و عملکردش مطابق انتظار بود. بسته‌بندی هم مناسب بود.",
+          "date": "۱۰ مرداد ۱۴۰۵",
+          "likes": [
+            "shayan_maker",
+            "kasra_mcu"
+          ],
+          "dislikes": []
+        },
+        {
+          "id": 4,
+          "userName": "sina_electro",
+          "text": "برای کارهای ساده و آموزشی مناسبه. اگر پروژه حساس دارید بهتره قبل از نصب، کامل تستش کنید.",
+          "date": "۱۹ مرداد ۱۴۰۵",
+          "likes": [],
+          "dislikes": [
+            "pooya_77"
+          ]
+        },
+        {
+          "id": 5,
+          "userName": "hadi_robotics",
+          "text": "خرید خوبی بود. پیشنهاد می‌کنم قبل از اتصال، ولتاژ و پایه‌ها رو از روی مشخصات محصول بررسی کنید.",
+          "date": "۱۰ مرداد ۱۴۰۵",
+          "likes": [
+            "reza_robot",
+            "fatemeh_m",
+            "negara_iot",
+            "parisa_92"
+          ],
+          "dislikes": []
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "سنسور دما و رطوبت DHT22",
+      "description": "سنسور دما و رطوبت DHT22 برای دریافت داده‌های محیطی در پروژه‌های خانه هوشمند، ایستگاه هواشناسی و پایش محیط مناسب است. این قطعه از طریق رابط دیجیتال داده را به میکروکنترلر ارسال می‌کند و راه‌اندازی آن با کتابخانه‌های رایج امکان‌پذیر است. برای ثبت داده‌های پایدار، زمان نمونه‌برداری مناسب و نصب دور از منابع گرما یا رطوبت مستقیم را در نظر بگیرید. دقت و محدوده اندازه‌گیری به مشخصات نسخه سنسور وابسته است.",
+      "price": 180000,
+      "img": "",
+      "comments": [
+        {
+          "id": 1,
+          "userName": "omid_iot",
+          "text": "برای نمایش دما و رطوبت در پروژه خانه هوشمند استفاده کردم. محل نصب سنسور روی نتیجه اثر داره.",
+          "date": "۱۱ مهر ۱۴۰۵",
+          "likes": [
+            "omid_tech",
+            "reza_elec",
+            "mehrdad_tech",
+            "sahar_dev",
+            "behnam_92",
+            "nima_maker"
+          ],
+          "dislikes": [
+            "lida_maker",
+            "ali_dev",
+            "sara_tech",
+            "parisa_92"
+          ]
+        },
+        {
+          "id": 2,
+          "userName": "amir_circuit",
+          "text": "برای کارهای ساده و آموزشی مناسبه. اگر پروژه حساس دارید بهتره قبل از نصب، کامل تستش کنید.",
+          "date": "۲۹ شهریور ۱۴۰۵",
+          "likes": [
+            "elham_iot",
+            "mehrdad_tech"
+          ],
+          "dislikes": [
+            "yasin_elec",
+            "kimia_maker"
+          ]
+        },
+        {
+          "id": 3,
+          "userName": "saman_coder",
+          "text": "برای کارهای ساده و آموزشی مناسبه. اگر پروژه حساس دارید بهتره قبل از نصب، کامل تستش کنید.",
+          "date": "۱۲ مهر ۱۴۰۵",
+          "likes": [
+            "hadi_robotics",
+            "omid_tech",
+            "sina_electro"
+          ],
+          "dislikes": []
+        },
+        {
+          "id": 4,
+          "userName": "reza_robot",
+          "text": "همون چیزی بود که برای مدارم لازم داشتم. توضیحات فنی محصول کمک می‌کنه انتخاب دقیق‌تری داشته باشید.",
+          "date": "۲۹ شهریور ۱۴۰۵",
+          "likes": [
+            "kimia_maker",
+            "navid_arduino",
+            "dorsa_elec"
+          ],
+          "dislikes": [
+            "parisa_92",
+            "hadi_robotics",
+            "yasin_elec"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "مبدل USB به TTL",
+      "description": "ماژول مبدل USB به TTL برای برقراری ارتباط سریال بین رایانه و بردهای الکترونیکی استفاده می‌شود. این ابزار هنگام بارگذاری برنامه، مشاهده پیام‌های دیباگ یا پیکربندی ماژول‌های ارتباطی مفید است. پایه‌های TX، RX و GND باید مطابق جهت ارتباط به مدار متصل شوند و سطح ولتاژ منطقی مبدل با دستگاه مقصد سازگار باشد. پیش از اتصال پایه تغذیه، مشخصات برد را بررسی کنید تا از آسیب به قطعات جلوگیری شود.",
+      "price": 95000,
+      "img": "",
+      "comments": []
+    },
+    {
+      "id": 24,
+      "name": "خازن الکترولیتی 1000µF",
+      "description": "خازن الکترولیتی ۱۰۰۰ میکروفاراد برای صاف‌کردن نوسانات ولتاژ، کاهش ریپل و ذخیره موقت انرژی در برخی مدارهای تغذیه به کار می‌رود. هنگام انتخاب خازن، علاوه بر ظرفیت، ولتاژ نامی، دمای کاری و قطبیت آن را در نظر بگیرید. این قطعه برای تمرین مدارهای یکسوساز و فیلتر و همچنین نمونه‌سازی مدارهای الکترونیکی کاربرد دارد. اتصال معکوس خازن قطب‌دار می‌تواند خطرناک باشد؛ علامت قطب‌ها را پیش از نصب بررسی کنید.",
+      "price": 12000,
+      "img": "",
+      "comments": [
+        {
+          "id": 1,
+          "userName": "behnam_lab",
+          "text": "برای آزمایش مدار تغذیه گرفتم. مقدار ولتاژ نامی و قطبیت رو قبل از نصب بررسی کنید.",
+          "date": "۲۶ شهریور ۱۴۰۵",
+          "likes": [
+            "armin_iot",
+            "sahar_dev",
+            "sina_electro",
+            "roya_circuits",
+            "sara_tech",
+            "reza_elec"
+          ],
+          "dislikes": []
+        },
+        {
+          "id": 2,
+          "userName": "parisa_92",
+          "text": "برای کارهای ساده و آموزشی مناسبه. اگر پروژه حساس دارید بهتره قبل از نصب، کامل تستش کنید.",
+          "date": "۱۷ تیر ۱۴۰۵",
+          "likes": [],
+          "dislikes": []
+        },
+        {
+          "id": 3,
+          "userName": "navid_arduino",
+          "text": "در اولین تست عملکردش خوب بود؛ امیدوارم در استفاده طولانی‌مدت هم همین‌طور بمونه.",
+          "date": "۱۷ تیر ۱۴۰۵",
+          "likes": [
+            "ali_dev",
+            "mehrdad_tech",
+            "tara_dev",
+            "parisa_92",
+            "pooya_77",
+            "kasra_mcu"
+          ],
+          "dislikes": []
+        },
+        {
+          "id": 4,
+          "userName": "ali_dev",
+          "text": "کیفیت ساختش خوبه؛ فقط قبل از استفاده مشخصات فنی رو با نیاز پروژه‌تون تطبیق بدید.",
+          "date": "۸ مهر ۱۴۰۵",
+          "likes": [
+            "reza_elec",
+            "omid_tech",
+            "parisa_92",
+            "pooya_77"
+          ],
+          "dislikes": []
+        },
+        {
+          "id": 5,
+          "userName": "reza_elec",
+          "text": "به دستم رسید و بعد از تست اولیه درست کار کرد. برای کارهای آموزشی گزینه خوبیه.",
+          "date": "۱۵ شهریور ۱۴۰۵",
+          "likes": [
+            "shayan_maker",
+            "reza_robot",
+            "dorsa_elec",
+            "mina_arduino",
+            "hadi_robotics",
+            "pooya_77",
+            "mehrdad_tech",
+            "ali_dev"
+          ],
+          "dislikes": [
+            "nima_maker",
+            "saman_coder",
+            "kasra_mcu"
+          ]
+        },
+        {
+          "id": 6,
+          "userName": "mina_arduino",
+          "text": "در اولین تست عملکردش خوب بود؛ امیدوارم در استفاده طولانی‌مدت هم همین‌طور بمونه.",
+          "date": "۲۵ تیر ۱۴۰۵",
+          "likes": [],
+          "dislikes": [
+            "navid_arduino",
+            "mahdi_electro"
+          ]
+        },
+        {
+          "id": 7,
+          "userName": "mohsen_lab",
+          "text": "از نظر کارایی راضی بودم و نصبش سخت نبود. راهنمای پایه‌ها رو حتماً با دقت بخونید.",
+          "date": "۲۲ شهریور ۱۴۰۵",
+          "likes": [
+            "roya_circuits",
+            "hadi_robotics",
+            "yasin_elec",
+            "kasra_mcu"
+          ],
+          "dislikes": [
+            "mehrdad_tech",
+            "sara_tech"
+          ]
+        },
+        {
+          "id": 8,
+          "userName": "behnam_92",
+          "text": "قطعه کاربردیه و برای پروژه‌های دانشجویی مناسبه. بهتره اتصالات رو قبل از روشن کردن دوباره چک کنید.",
+          "date": "۱۹ مرداد ۱۴۰۵",
+          "likes": [
+            "tara_dev",
+            "shayan_maker",
+            "saman_coder",
+            "kasra_mcu"
+          ],
+          "dislikes": [
+            "sina_electro",
+            "roya_circuits"
+          ]
+        },
+        {
+          "id": 9,
+          "userName": "reza_robot",
+          "text": "برای پروژه آزمایشی تهیه کردم و عملکردش مطابق انتظار بود. بسته‌بندی هم مناسب بود.",
+          "date": "۳ مرداد ۱۴۰۵",
+          "likes": [
+            "armin_iot",
+            "amir_circuit",
+            "mohsen_lab",
+            "lida_maker",
+            "yasin_elec",
+            "fatemeh_m",
+            "sina_electro",
+            "mehrdad_tech"
+          ],
+          "dislikes": []
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "مقاومت 220 اهم (بسته 10 عددی)",
+      "description": "مقاومت‌های ۲۲۰ اهم در پروژه‌های پایه الکترونیک برای محدودکردن جریان LEDها، تقسیم ولتاژ و ساخت مدارهای ساده استفاده می‌شوند. وجود چند مقاومت با مقدار یکسان در جعبه قطعات، روند نمونه‌سازی و آزمایش مدار را سریع‌تر می‌کند. توان مجاز و تلرانس مقاومت باید با شرایط مدار متناسب باشد و مقدار آن را می‌توان با کد رنگی یا مولتی‌متر بررسی کرد. برای انتخاب مقاومت LED، ولتاژ منبع و مشخصات LED را نیز در محاسبه در نظر بگیرید.",
+      "price": 8000,
+      "img": "",
+      "comments": [
+        {
+          "id": 1,
+          "userName": "reza_robot",
+          "text": "خرید خوبی بود. پیشنهاد می‌کنم قبل از اتصال، ولتاژ و پایه‌ها رو از روی مشخصات محصول بررسی کنید.",
+          "date": "۱۹ مرداد ۱۴۰۵",
+          "likes": [
+            "roya_circuits",
+            "armin_iot"
+          ],
+          "dislikes": []
+        },
+        {
+          "id": 2,
+          "userName": "lida_maker",
+          "text": "برای پروژه آزمایشی تهیه کردم و عملکردش مطابق انتظار بود. بسته‌بندی هم مناسب بود.",
+          "date": "۷ شهریور ۱۴۰۵",
+          "likes": [
+            "negara_iot",
+            "dorsa_elec",
+            "elham_iot"
+          ],
+          "dislikes": [
+            "sara_tech"
+          ]
+        },
+        {
+          "id": 3,
+          "userName": "sara_tech",
+          "text": "از نظر کارایی راضی بودم و نصبش سخت نبود. راهنمای پایه‌ها رو حتماً با دقت بخونید.",
+          "date": "۲۸ مرداد ۱۴۰۵",
+          "likes": [
+            "mehrdad_tech",
+            "amir_circuit",
+            "saman_coder",
+            "negara_iot",
+            "mahdi_electro"
+          ],
+          "dislikes": [
+            "kimia_maker"
+          ]
+        },
+        {
+          "id": 4,
+          "userName": "negara_iot",
+          "text": "برای پروژه آزمایشی تهیه کردم و عملکردش مطابق انتظار بود. بسته‌بندی هم مناسب بود.",
+          "date": "۳ مرداد ۱۴۰۵",
+          "likes": [
+            "mohsen_lab",
+            "omid_tech"
+          ],
+          "dislikes": [
+            "parisa_92"
+          ]
+        },
+        {
+          "id": 5,
+          "userName": "mohsen_lab",
+          "text": "برای کارهای ساده و آموزشی مناسبه. اگر پروژه حساس دارید بهتره قبل از نصب، کامل تستش کنید.",
+          "date": "۲۸ مرداد ۱۴۰۵",
+          "likes": [
+            "reza_robot",
+            "kimia_maker",
+            "saman_coder"
+          ],
+          "dislikes": [
+            "shayan_maker",
+            "mahdi_electro",
+            "nima_maker"
+          ]
+        },
+        {
+          "id": 6,
+          "userName": "behnam_92",
+          "text": "نسبت به قیمتش قابل قبوله. اگر دیتاشیت رو دقیق بررسی کنید راه‌اندازی راحت‌تر می‌شه.",
+          "date": "۲۵ تیر ۱۴۰۵",
+          "likes": [
+            "mahdi_electro",
+            "ali_dev",
+            "shayan_maker",
+            "omid_tech"
+          ],
+          "dislikes": [
+            "fatemeh_m",
+            "sina_electro",
+            "amir_circuit"
+          ]
+        },
+        {
+          "id": 7,
+          "userName": "fatemeh_m",
+          "text": "برای کارهای ساده و آموزشی مناسبه. اگر پروژه حساس دارید بهتره قبل از نصب، کامل تستش کنید.",
+          "date": "۳ مرداد ۱۴۰۵",
+          "likes": [
+            "mahdi_electro",
+            "roya_circuits",
+            "saman_coder",
+            "armin_iot",
+            "navid_arduino",
+            "mohsen_lab",
+            "reza_elec"
+          ],
+          "dislikes": []
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "ماژول افزاینده ولتاژ MT3608",
+      "description": "ماژول مبدل افزاینده MT3608 برای افزایش ولتاژ DC ورودی به سطح بالاتر در پروژه‌های قابل‌حمل و نمونه‌سازی مدار تغذیه استفاده می‌شود. ولتاژ خروجی در بسیاری از بردها با پتانسیومتر تنظیم می‌شود، بنابراین بهتر است پیش از اتصال بار، خروجی را با مولتی‌متر اندازه‌گیری کنید. جریان قابل برداشت به ولتاژ ورودی، میزان افزایش ولتاژ، کیفیت برد و خنک‌کاری بستگی دارد. این ماژول برای کاربردهایی مناسب است که به تغذیه تنظیم‌شده نیاز دارند و باید در محدوده مجاز استفاده شود.",
+      "price": 45000,
+      "img": "",
+      "comments": [
+        {
+          "id": 1,
+          "userName": "yasin_circuits",
+          "text": "برای یک مدار قابل‌حمل استفاده کردم. خروجی رو قبل از وصل کردن قطعات با مولتی‌متر تنظیم کنید.",
+          "date": "۱۳ مهر ۱۴۰۵",
+          "likes": [
+            "fatemeh_m",
+            "dorsa_elec",
+            "pooya_77",
+            "elham_iot",
+            "armin_iot",
+            "tara_dev",
+            "roya_circuits",
+            "navid_arduino",
+            "kasra_mcu",
+            "sahar_dev",
+            "lida_maker",
+            "reza_elec",
+            "mehrdad_tech",
+            "kimia_maker",
+            "omid_tech",
+            "behnam_92",
+            "shayan_dev",
+            "mohsen_lab"
+          ],
+          "dislikes": [
+            "parisa_92",
+            "yasin_elec",
+            "sina_electro",
+            "ali_dev",
+            "sara_tech"
+          ]
+        },
+        {
+          "id": 2,
+          "userName": "tara_elec",
+          "text": "برد کوچیک و کاربردیه؛ حواستون باشه جریان قابل برداشت به شرایط کار بستگی داره.",
+          "date": "۲۵ شهریور ۱۴۰۵",
+          "likes": [
+            "fatemeh_m",
+            "sina_electro",
+            "elham_iot",
+            "parisa_92",
+            "tara_dev"
+          ],
+          "dislikes": [
+            "ali_dev",
+            "armin_iot"
+          ]
+        },
+        {
+          "id": 3,
+          "userName": "mahdi_electro",
+          "text": "به دستم رسید و بعد از تست اولیه درست کار کرد. برای کارهای آموزشی گزینه خوبیه.",
+          "date": "۷ شهریور ۱۴۰۵",
+          "likes": [
+            "lida_maker",
+            "kimia_maker"
+          ],
+          "dislikes": [
+            "dorsa_elec",
+            "elham_iot"
+          ]
+        },
+        {
+          "id": 4,
+          "userName": "pooya_77",
+          "text": "به دستم رسید و بعد از تست اولیه درست کار کرد. برای کارهای آموزشی گزینه خوبیه.",
+          "date": "۲۲ شهریور ۱۴۰۵",
+          "likes": [
+            "lida_maker",
+            "nima_maker"
+          ],
+          "dislikes": []
+        },
+        {
+          "id": 5,
+          "userName": "tara_dev",
+          "text": "کیفیت ساختش خوبه؛ فقط قبل از استفاده مشخصات فنی رو با نیاز پروژه‌تون تطبیق بدید.",
+          "date": "۸ مهر ۱۴۰۵",
+          "likes": [
+            "behnam_92",
+            "yasin_elec",
+            "sara_tech",
+            "shayan_maker",
+            "dorsa_elec",
+            "parisa_92",
+            "mehrdad_tech"
+          ],
+          "dislikes": [
+            "omid_tech",
+            "elham_iot"
+          ]
+        },
+        {
+          "id": 6,
+          "userName": "amir_circuit",
+          "text": "قطعه کاربردیه و برای پروژه‌های دانشجویی مناسبه. بهتره اتصالات رو قبل از روشن کردن دوباره چک کنید.",
+          "date": "۱۲ مهر ۱۴۰۵",
+          "likes": [
+            "hadi_robotics",
+            "sina_electro",
+            "pooya_77",
+            "omid_tech",
+            "reza_robot",
+            "ali_dev",
+            "fatemeh_m"
+          ],
+          "dislikes": [
+            "kasra_mcu",
+            "roya_circuits"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "ماژول بلوتوث HC-05",
+      "description": "ماژول بلوتوث HC-05 امکان ایجاد ارتباط سریال بی‌سیم بین میکروکنترلر و دستگاه‌های سازگار را فراهم می‌کند. این ماژول در پروژه‌های رباتیک، کنترل از طریق تلفن همراه و تبادل داده‌های ساده کاربرد دارد. تنظیمات ارتباط و حالت کاری به نسخه ماژول وابسته است و برای اتصال به بردهای مختلف باید سطح ولتاژ پایه‌ها را بررسی کرد. برای دریافت نتیجه بهتر، سرعت ارتباط سریال دو سمت و نحوه اتصال TX و RX را به‌درستی تنظیم کنید.",
+      "price": 160000,
+      "img": "",
+      "comments": [
+        {
+          "id": 1,
+          "userName": "mehran_robot",
+          "text": "برای کنترل ربات با گوشی استفاده کردم. تنظیم سرعت سریال و اتصال TX و RX رو با دقت انجام بدید.",
+          "date": "۹ مهر ۱۴۰۵",
+          "likes": [
+            "pooya_77",
+            "armin_iot",
+            "kasra_mcu",
+            "kimia_maker",
+            "fatemeh_m",
+            "behnam_92",
+            "ali_dev",
+            "mohsen_lab",
+            "elham_iot",
+            "nima_maker",
+            "dorsa_elec",
+            "sahar_dev",
+            "parisa_92",
+            "omid_tech",
+            "lida_maker",
+            "shayan_dev",
+            "mehrdad_tech"
+          ],
+          "dislikes": [
+            "yasin_elec",
+            "roya_circuits",
+            "reza_elec"
+          ]
+        },
+        {
+          "id": 2,
+          "userName": "parisa_92",
+          "text": "برای نمونه‌سازی مناسبه. بهتره قبل از اتصال به مدار اصلی، جداگانه تستش کنید.",
+          "date": "۲۵ تیر ۱۴۰۵",
+          "likes": [
+            "dorsa_elec",
+            "nima_maker",
+            "tara_dev",
+            "reza_elec",
+            "navid_arduino",
+            "sara_tech",
+            "hadi_robotics"
+          ],
+          "dislikes": []
+        },
+        {
+          "id": 3,
+          "userName": "behnam_92",
+          "text": "از نظر کارایی راضی بودم و نصبش سخت نبود. راهنمای پایه‌ها رو حتماً با دقت بخونید.",
+          "date": "۷ شهریور ۱۴۰۵",
+          "likes": [
+            "mahdi_electro",
+            "ali_dev",
+            "lida_maker",
+            "amir_circuit",
+            "negara_iot",
+            "reza_robot",
+            "kasra_mcu"
+          ],
+          "dislikes": [
+            "sina_electro"
+          ]
+        },
+        {
+          "id": 4,
+          "userName": "negara_iot",
+          "text": "در اولین تست عملکردش خوب بود؛ امیدوارم در استفاده طولانی‌مدت هم همین‌طور بمونه.",
+          "date": "۱۷ تیر ۱۴۰۵",
+          "likes": [
+            "amir_circuit",
+            "pooya_77",
+            "reza_robot",
+            "mahdi_electro",
+            "armin_iot"
+          ],
+          "dislikes": [
+            "kimia_maker",
+            "nima_maker",
+            "saman_coder"
+          ]
+        },
+        {
+          "id": 5,
+          "userName": "fatemeh_m",
+          "text": "برای کارهای ساده و آموزشی مناسبه. اگر پروژه حساس دارید بهتره قبل از نصب، کامل تستش کنید.",
+          "date": "۱۷ تیر ۱۴۰۵",
+          "likes": [
+            "navid_arduino",
+            "saman_coder",
+            "kasra_mcu",
+            "sara_tech",
+            "tara_dev",
+            "elham_iot"
+          ],
+          "dislikes": []
+        },
+        {
+          "id": 6,
+          "userName": "kimia_maker",
+          "text": "برای پروژه آزمایشی تهیه کردم و عملکردش مطابق انتظار بود. بسته‌بندی هم مناسب بود.",
+          "date": "۷ شهریور ۱۴۰۵",
+          "likes": [
+            "negara_iot",
+            "mahdi_electro"
+          ],
+          "dislikes": [
+            "hadi_robotics",
+            "ali_dev",
+            "reza_robot"
+          ]
+        },
+        {
+          "id": 7,
+          "userName": "reza_robot",
+          "text": "نسبت به قیمتش قابل قبوله. اگر دیتاشیت رو دقیق بررسی کنید راه‌اندازی راحت‌تر می‌شه.",
+          "date": "۱۲ مهر ۱۴۰۵",
+          "likes": [
+            "mehrdad_tech",
+            "navid_arduino"
+          ],
+          "dislikes": [
+            "mahdi_electro",
+            "negara_iot"
+          ]
+        },
+        {
+          "id": 8,
+          "userName": "shayan_maker",
+          "text": "به دستم رسید و بعد از تست اولیه درست کار کرد. برای کارهای آموزشی گزینه خوبیه.",
+          "date": "۲۲ شهریور ۱۴۰۵",
+          "likes": [
+            "roya_circuits",
+            "negara_iot",
+            "omid_tech",
+            "fatemeh_m",
+            "mohsen_lab",
+            "kasra_mcu",
+            "kimia_maker",
+            "mehrdad_tech"
+          ],
+          "dislikes": [
+            "yasin_elec",
+            "parisa_92"
+          ]
+        },
+        {
+          "id": 9,
+          "userName": "ali_dev",
+          "text": "نسبت به قیمتش قابل قبوله. اگر دیتاشیت رو دقیق بررسی کنید راه‌اندازی راحت‌تر می‌شه.",
+          "date": "۲۲ شهریور ۱۴۰۵",
+          "likes": [],
+          "dislikes": [
+            "roya_circuits",
+            "reza_robot",
+            "amir_circuit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "LED قرمز 5 میلی‌متری (بسته 10 عددی)",
+      "description": "LED پنج میلی‌متری قرمز برای نمایش وضعیت روشن/خاموش، اعلان خطا و آزمایش خروجی‌های دیجیتال در مدارهای آموزشی مناسب است. این قطعه به جریان محدودشده نیاز دارد؛ بنابراین معمولاً باید همراه مقاومت سری متناسب با ولتاژ تغذیه استفاده شود. پایه بلندتر در بسیاری از LEDهای نو نشان‌دهنده آند است، اما بهتر است قطبیت را با مشخصات قطعه بررسی کنید. استفاده از LED در کنار مقاومت مناسب، روشی ساده برای یادگیری اصول اولیه مدارهای الکترونیکی است.",
+      "price": 10000,
+      "img": "",
+      "comments": [
+        {
+          "id": 1,
+          "userName": "elham_iot",
+          "text": "برای پروژه آزمایشی تهیه کردم و عملکردش مطابق انتظار بود. بسته‌بندی هم مناسب بود.",
+          "date": "۲۹ شهریور ۱۴۰۵",
+          "likes": [
+            "mina_arduino",
+            "yasin_elec",
+            "pooya_77",
+            "mohsen_lab",
+            "ali_dev",
+            "hadi_robotics"
+          ],
+          "dislikes": []
+        },
+        {
+          "id": 2,
+          "userName": "amir_circuit",
+          "text": "نسبت به قیمتش قابل قبوله. اگر دیتاشیت رو دقیق بررسی کنید راه‌اندازی راحت‌تر می‌شه.",
+          "date": "۲۹ شهریور ۱۴۰۵",
+          "likes": [
+            "ali_dev",
+            "reza_robot",
+            "mina_arduino",
+            "armin_iot",
+            "tara_dev",
+            "sara_tech",
+            "behnam_92",
+            "kasra_mcu",
+            "omid_tech"
+          ],
+          "dislikes": [
+            "roya_circuits",
+            "nima_maker"
+          ]
+        },
+        {
+          "id": 3,
+          "userName": "nima_maker",
+          "text": "برای کارهای آموزشی مناسبه، فقط جریان مجاز LED رو رعایت کنید.",
+          "date": "۱۹ مرداد ۱۴۰۵",
+          "likes": [
+            "pooya_77",
+            "roya_circuits"
+          ],
+          "dislikes": [
+            "sara_tech"
+          ]
+        },
+        {
+          "id": 4,
+          "userName": "armin_iot",
+          "text": "به دستم رسید و بعد از تست اولیه درست کار کرد. برای کارهای آموزشی گزینه خوبیه.",
+          "date": "۱۲ مهر ۱۴۰۵",
+          "likes": [
+            "yasin_elec",
+            "mahdi_electro",
+            "elham_iot",
+            "lida_maker",
+            "sina_electro",
+            "hadi_robotics",
+            "pooya_77",
+            "omid_tech",
+            "roya_circuits"
+          ],
+          "dislikes": []
+        },
+        {
+          "id": 5,
+          "userName": "mina_arduino",
+          "text": "از نظر کارایی راضی بودم و نصبش سخت نبود. راهنمای پایه‌ها رو حتماً با دقت بخونید.",
+          "date": "۱۲ مهر ۱۴۰۵",
+          "likes": [
+            "tara_dev"
+          ],
+          "dislikes": [
+            "kimia_maker"
+          ]
+        },
+        {
+          "id": 6,
+          "userName": "tara_dev",
+          "text": "خرید خوبی بود. پیشنهاد می‌کنم قبل از اتصال، ولتاژ و پایه‌ها رو از روی مشخصات محصول بررسی کنید.",
+          "date": "۲۸ مرداد ۱۴۰۵",
+          "likes": [
+            "navid_arduino",
+            "pooya_77",
+            "behnam_92",
+            "mahdi_electro",
+            "negara_iot",
+            "elham_iot",
+            "fatemeh_m",
+            "sina_electro",
+            "armin_iot"
+          ],
+          "dislikes": []
+        }
+      ]
+    }
+  ]
+}

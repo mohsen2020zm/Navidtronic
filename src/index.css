@@ -1,0 +1,84 @@
+@import "tailwindcss";
+
+@font-face{
+    font-family: "shabnam";
+    src: url("./assets/fonts/Shabnam.ttf");
+}
+
+@theme {
+    --breakpoint-sm: 480px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+    --breakpoint-2xl: 1345px;
+}
+
+@layer base {
+    body{   
+        background-color: #f7f7f7;
+        margin: 0;
+        padding: 0;
+        font-family: "shabnam";
+    }
+    main{
+        flex: 1;
+    }
+    input::-webkit-inner-spin-button{
+        -webkit-appearance: none;
+        margin: 0;
+    }
+    input:focus, textarea:focus{
+        outline: none;
+    }
+}
+
+@layer utilities {
+    .container{ 
+        @apply max-w-7xl mx-auto px-4 max-xl:max-w-240 max-lg:max-w-180 max-md:max-w-135 max-sm:max-w-full
+    }
+    .cus-shadow{
+        @apply shadow-[0_0_8px_1px_#0000002b]
+    }
+}
+
+@layer components {
+    .contact-address{
+        @apply text-[1.3rem] ml-6 flex justify-between [&>svg]:text-[1.5rem] [&>svg]:ml-[0.3rem] max-md:text-[1.1rem] [&>svg]:max-md:text-[1.35rem] max-sm:text-[0.8rem] max-sm:ml-2 [&>svg]:max-sm:text-[1rem]
+    }
+    .text-section-titles{
+        @apply text-[1.5rem] font-semibold px-8 my-2 max-md:text-[1.3rem] max-md:px-4 max-sm:text-[1.2rem] max-sm:px-[0.7rem]
+    }
+    .text-section-texts{
+        @apply text-[1.2rem] px-8 my-2 max-md:text-[1.1rem] max-md:px-4 max-sm:text-[1rem] max-sm:px-[0.7rem]
+    }
+    .wcu-boxes{
+        @apply max-w-72 p-3 max-lg:p-2 max-md:max-w-52 max-sm:max-w-full max-sm:p-0
+    }
+    .wcu-boxes-title{
+        @apply text-[1.2rem] font-semibold max-md:text-[1.1rem] max-sm:text-[1rem]
+    }
+    .wcu-boxes-texts{
+        @apply text-[1rem] py-2 max-md:text-[0.9rem] max-sm:text-[0.8rem]
+    }
+    .form-main-div{
+        @apply w-82 rounded-lg bg-[#393e46] absolute top-[50%] left-[50%] transform-[translate(-50%,-50%)] flex justify-around items-center flex-col
+    }
+    .form-header{
+        @apply w-70 flex items-center justify-between my-2 [&>svg]:text-[1.5rem] [&>svg]:text-[#f7f7f7] [&>svg]:cursor-pointer
+    }
+    .form-title{
+        @apply text-[#f7f7f7] text-[1.8rem]
+    }
+    .form-input{
+        @apply h-8 rounded-[5px] text-[1rem] pr-2 bg-[#f7f7f7]
+    }
+    .form-submit-btn{
+        @apply w-full h-8 rounded-[5px] cursor-pointer text-[1rem] bg-[#6d9886] text-[#f7f7f7]
+    }
+    .form-question-p{
+        @apply text-[#f7f7f7] [&>a]:text-[#6d9886] my-2
+    }
+    .form-error{
+        @apply w-full h-4 text-[0.7rem] text-red-500
+    }
+}
