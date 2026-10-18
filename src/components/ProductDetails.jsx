@@ -45,8 +45,8 @@ export default function ProductDetails() {
             <div className='w-[75%] mx-auto mt-4 flex flex-row-reverse items-center justify-between max-xl:w-[85%] max-md:w-full max-lg:flex-col max-lg:mt-2 max-md:mt-0'>
                 <div className="w-100 p-4 flex justify-center items-center [&>img]:w-92 [&>img]:rounded-lg [&>img]:mix-blend-multiply max-md:w-80 max-md:[&>img]:w-72 max-sm:w-70 max-sm:[&>img]:w-62">
                     {currentProduct.img ?
-                    <img src={currentProduct.img} alt="product" /> :
-                    <img src="/images/no-pic.jpg" alt='no-pic-img' />} 
+                    <img src={import.meta.env.BASE_URL + currentProduct.img} alt="product" /> :
+                    <img src={`${import.meta.env.BASE_URL}/images/no-pic.jpg`} alt='no-pic-img' />} 
                 </div>
                 <div className="w-108 py-8 text-[#393e46] max-lg:border-l-0 max-lg:border-t max-lg:border-t-[#393e46] max-lg:w-full max-lg:py-4 max-md:py-2 max-sm:py-0">
                     <p className='text-[1.8rem] font-semibold my-2 max-md:text-[1.6rem] max-sm:text-[1.4rem]'>{currentProduct.name}</p>
