@@ -10,25 +10,28 @@ import SigninPage from '../pages/SigninPage'
 import CartPage from '../pages/CartPage'
 import { createBrowserRouter } from 'react-router-dom'
 
-const router = createBrowserRouter([
-    {
-        element: <MainLayout />,
-        children: [
-            {path: '/', element: <HomePage />},
-            {path: '/products', element: <ProductsPage />},
-            {path: '/product-details/:productName', element: <ProductsDetailsPage />},
-            {path: '/cart', element: <CartPage />},
-            {path: '/about', element: <AboutPage />},
-            {path: '*', element: <NotFoundPage />}
-        ]
-    },
-    {
-        element: <AuthLayout />,
-        children: [
-            {path: '/signin', element: <SigninPage />},
-            {path: '/signup', element: <SignupPage />}
-        ]
-    }
-])
+const router = createBrowserRouter(
+    [
+        {
+            element: <MainLayout />,
+            children: [
+                {path: '/', element: <HomePage />},
+                {path: '/products', element: <ProductsPage />},
+                {path: '/product-details/:productName', element: <ProductsDetailsPage />},
+                {path: '/cart', element: <CartPage />},
+                {path: '/about', element: <AboutPage />},
+                {path: '*', element: <NotFoundPage />}
+            ]
+        },
+        {
+            element: <AuthLayout />,
+            children: [
+                {path: '/signin', element: <SigninPage />},
+                {path: '/signup', element: <SignupPage />}
+            ]
+        }
+    ],
+    basename: "/Navidtronic/"
+)
 
 export default router
