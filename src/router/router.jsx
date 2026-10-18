@@ -31,7 +31,9 @@ const router = createBrowserRouter(
             ]
         }
     ],
-    basename: "/Navidtronic/"
+    {
+        basename: "/Navidtronic/"
+    }
 )
 
 export default router
